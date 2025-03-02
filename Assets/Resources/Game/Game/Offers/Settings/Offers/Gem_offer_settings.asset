@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfed89ca1b4a4e4ab9860eef4454f51, type: 3}
+  m_Name: Gem_offer_settings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  ingameOffer: {fileID: 7730245480444604518, guid: d56f9f1b4882542fe9004b18e14dfc96,
+    type: 3}
+  rewardSettings: {fileID: 11400000, guid: 892e5f1730c314ba2871d8e87211378b, type: 2}
+  weight: 10
+  negativeWeights:
+  - 5
+  - 3

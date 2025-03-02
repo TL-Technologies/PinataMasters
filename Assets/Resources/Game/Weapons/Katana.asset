@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: Katana
+  Price: 0
+  Sprite: {fileID: 21300000, guid: 429b2d7192beb4d25bf8b4cbfcd62df6, type: 3}
+  Mask: {fileID: 21300000, guid: 3316dd08719994641ab02200ca6c5466, type: 3}
+  UnlockEffect: {fileID: 0}
+  AmmoBase: 13
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 63
+  DamageBase: 27
+  DamageUpgrade: 2
+  DamageUpgradePrice: 57
+  CoinsBase: 2
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 3f2913c495b3745a5adb3187f5d88d3f, type: 3}
+    Aim: 0
+    PrefabShell: {fileID: 114322355560183156, guid: a40afab4d61f146659a75ef7bca0ee6e,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 1
+    RateOfFire: 0
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 8300000, guid: 7a299fdef8d21435fbd519fca4ab2239, type: 3}
+    ShotClipVolume: 1
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

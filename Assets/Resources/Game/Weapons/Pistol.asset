@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: Pistol
+  Price: 1200
+  Sprite: {fileID: 21300000, guid: 058314f72a6864ad59a7ef00afb1e748, type: 3}
+  Mask: {fileID: 21300000, guid: 594fe7e551d2c4b0d828cb9cfba91434, type: 3}
+  UnlockEffect: {fileID: 198978761080021866, guid: e36716fdf9af34e3eafeaecbe269e2b8,
+    type: 3}
+  AmmoBase: 14
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 97
+  DamageBase: 51
+  DamageUpgrade: 4
+  DamageUpgradePrice: 88
+  CoinsBase: 2
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: b7d74908ed5c14871ae917b4e48e768d, type: 3}
+    Aim: 1
+    PrefabShell: {fileID: 114168780292763744, guid: b82e3446615ae4e2e9250a66767a3fc1,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 1
+    RateOfFire: 0.001
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 8300000, guid: 73601507efdcb4123af4d10b4bdc8e90, type: 3}
+    ShotClipVolume: 0.8
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

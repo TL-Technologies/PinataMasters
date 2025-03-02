@@ -1,0 +1,16 @@
+{
+    "name": "Modules.General",
+    "references": [
+        "Unity.TextMeshPro",
+        "Modules.Hive"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

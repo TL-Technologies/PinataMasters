@@ -1,0 +1,139 @@
+
+horse.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 62
+  size: 249, 192
+  orig: 249, 192
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 253, 2
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 972, 206
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 391, 2
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+gold_chain
+  rotate: false
+  xy: 652, 151
+  size: 154, 103
+  orig: 154, 103
+  offset: 0, 0
+  index: -1
+hand_back
+  rotate: true
+  xy: 464, 32
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+hand_front
+  rotate: false
+  xy: 391, 30
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 488, 105
+  size: 162, 149
+  orig: 162, 149
+  offset: 0, 0
+  index: -1
+head_spot
+  rotate: true
+  xy: 2, 12
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: false
+  xy: 808, 180
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+leg_back
+  rotate: true
+  xy: 564, 32
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+leg_front
+  rotate: false
+  xy: 318, 29
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 253, 131
+  size: 123, 233
+  orig: 123, 233
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 652, 105
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 663, 29
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 464, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 808, 156
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+tail_brush
+  rotate: true
+  xy: 69, 8
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: false
+  xy: 726, 120
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,117 @@
+ui.dialog.you_earned,獲得しました！
+ui.dialog.collect_double,2倍コレクト
+ui.dialog.collect,コレクト
+ui.dialog.power,パワー
+ui.dialog.ammo,弾薬
+ui.dialog.tap_to_start,タップしてスタート
+ui.dialog.offline_reward,+{0}% オフラインリワード
+ui.dialog.speed,+{0}% スピード
+ui.dialog.bonus_coins,+{0}% ボーナスコイン
+ui.dialog.unlock,ロック解除
+ui.dialog.choose,選ぶ
+ui.settings.terms_and_privacy,規約とプライバシー
+ui.settings.soundon,サウンド：オン
+ui.settings.vibrationon,振動：オン
+ui.settings.soundoff,サインド：オフ
+ui.settings.vibrationoff,振動：オフ
+ui.settings.musicon,音楽：オン
+ui.settings.musicoff,音楽：オフ
+ui.settings.header,設定
+ui.removeads,すべての広告を削除
+ui.dialog.doublecoins,2倍のコインを獲得
+ui.dialog.doubleincome,さらに2倍のリワード
+ui.popup.auto.renewable.subscription.start,無料トライアルを開始
+ui.popup.auto.renewable.subscription.button.description,3日間無料、その後は週{0}
+ui.popup.auto.renewable.subscription.week,{0}    週間
+ui.popup.auto.renewable.subscription.month,{0}   个月
+ui.dailygift.header,毎日のギフト
+ui.offlineearnings.header,オフライン収入を得る！
+ui.dialog.noads.oops,おっと！
+ui.dialog.noads.adsproblem,広告無し
+ui.dialog.nointernet,インターネット無し
+ui.dialog.language,日本語
+ui.dialog.doubleloot,コイン戦利品を2倍に！
+localnotification.dailygift,毎日のギフトがあなたを待っています！受け取ってください！
+localnotification.offlinereward,オフラインでの最大コイン数が利用可能になりました！
+ui.dialog.somethingwrong,エラーが発生しました
+ui.dialog.ok,OK
+ui.dialog.needcoins,コインが必要ですか？
+ui.dialog.bestvalue,ベストバリュー
+ui.dialog.mostpopular,一番人気
+ui.dialog.free,+{0} 無料
+ui.dialog.buy,購入
+ui.dialog.get,入手
+ui.dialog.dayupper,{0}日目
+ui.dialog.daylower,{0}日目
+ui.dialog.claimed,要求済み
+ui.dialog.claim,要求
+ui.dialog.start,開始
+ui.dialog.today,今日
+ui.dialog.rateus,評価してください！
+ui.dialog.likeourgame,ゲームを気に入っていただけましたか？
+ui.dialog.ratebutton,是非評価してください！
+ui.dialog.liketoget.desc,{0}「いいね！」{1}%tag_line%をして無料の特別報酬をゲット！
+ui.dialog.liketoget.button,いいね
+ui.dialog.social.header,無料コイン！
+ui.dialog.subscribe.button,購読する
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,プライバシーポリシー
+ui.subscription.terms,利用規約
+ui.dialog.restore,購入の復元
+ui.dialog.restore.info,購入が復元されます
+ui.dialog.restore.button,を復
+
+
+ui.prestige.resetprogress,進行状況をリセットして%tag_line%
+ui.prestige.earngems,宝石を手に入れよう
+ui.prestige.reset,リセット
+ui.prestige.progresspreseted,進行がリセットされた！
+ui.prestige.desc,すべてのレベル、武器、更新、コインを 犠牲にして宝石を手に入れる？
+ui.skin.ninja,忍者
+ui.skin.shark,鮫
+ui.skin.catman,猫男
+ui.skin.gorsky,ゴルスキー
+ui.skin.jason,ジェイソン
+ui.skin.50,50
+
+
+ui.skin.ability.coins,全キャラクターの ピニャータからゴールド{0}
+ui.skin.ability.coinsobstacle,全キャラクターに 障害物からゴールド{0}
+ui.skin.ability.obstacledamage,全キャラクターの 障害物にダメージ{0}
+ui.skin.ability.crit,クリティカルヒット率{0}
+ui.skin.ability.upgradeprice,全キャラクターの 武器アップグレードコストが{0}
+ui.skin.ability.doubleshot,全キャラクターが {0}ショットごとにダブルショット
+ui.prestige.upgrade,アップグレード
+ui.prestige.lock,レベル{0}に到達して%tag_line%
+ui.prestige.lock2,リセットを解除
+
+
+ui.settings.cloud_login,ログインして
+ui.settings.cloud_save_progress,進行状況をセーブ
+ui.settings.cloud_loggedIn,ログインしました
+ui.cloud_load.header,同期
+ui.cloud_load.desc,最適なcloudのオプションが見つかりました！%tag_line%cloudから進行状況をロードしますか？
+ui.cloud_save.header,警告
+ui.cloud_save.desc,cloudのデータが失われる恐れがあります。%tag_line%現在の進行状況をcloudに保存しますか？
+
+ui.dialog.videocoins.header,コインをゲットしよう！
+ui.dialog.videocoins.description,動画を視聴してコインをゲット
+
+ui.dialog.x2damage.header,攻撃速度2倍！
+ui.dialog.x2damage.description,動画を視聴すれば1分間攻撃速度が2倍！
+
+ui.dialog.videogems.header,ジェムをゲットしよう！
+ui.dialog.videogems.description,動画を視聴してジェムを5個ゲット
+
+ui.dialog.watchfordouble,動画を視聴して3分間コインを2倍獲得しよう！
+
+ui.dialog.you_won,勝利！
+
+ui.dialog.subscribe.desc,Instagramでフォローして無料コインをゲット
+
+yes,はい
+no,いいえ

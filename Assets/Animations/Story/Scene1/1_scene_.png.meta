@@ -1,0 +1,2396 @@
+fileFormatVersion: 2
+guid: 96101c523b09b482ab565576d086f410
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: duck_body
+  - first:
+      213: 21300002
+    second: duck_ear_l
+  - first:
+      213: 21300004
+    second: duck_ear_r
+  - first:
+      213: 21300006
+    second: duck_eye
+  - first:
+      213: 21300008
+    second: duck_leg_1
+  - first:
+      213: 21300010
+    second: duck_leg_2
+  - first:
+      213: 21300012
+    second: duck_leg_3
+  - first:
+      213: 21300014
+    second: duck_leg_4
+  - first:
+      213: 21300016
+    second: duck_mouth
+  - first:
+      213: 21300018
+    second: duck_tail
+  - first:
+      213: 21300020
+    second: fortnite_body
+  - first:
+      213: 21300022
+    second: fortnite_ear_l
+  - first:
+      213: 21300024
+    second: fortnite_ear_r
+  - first:
+      213: 21300026
+    second: fortnite_eye
+  - first:
+      213: 21300028
+    second: fortnite_leg_1
+  - first:
+      213: 21300030
+    second: fortnite_leg_2
+  - first:
+      213: 21300032
+    second: fortnite_leg_3
+  - first:
+      213: 21300034
+    second: fortnite_leg_4
+  - first:
+      213: 21300036
+    second: fortnite_mouth
+  - first:
+      213: 21300038
+    second: fortnite_tail
+  - first:
+      213: 21300040
+    second: shot1_BREAKING
+  - first:
+      213: 21300042
+    second: shot1_BREAKING_NEWS_back
+  - first:
+      213: 21300044
+    second: shot1_NEWS
+  - first:
+      213: 21300046
+    second: shot1_PINATAS ATTACK!
+  - first:
+      213: 21300048
+    second: shot1_TV
+  - first:
+      213: 21300050
+    second: shot1_bacground_city_TV
+  - first:
+      213: 21300052
+    second: shot1_background
+  - first:
+      213: 21300054
+    second: shot1_background_city_back_TV
+  - first:
+      213: 21300056
+    second: shot1_circle_flame
+  - first:
+      213: 21300058
+    second: shot1_clouds_TV
+  - first:
+      213: 21300060
+    second: shot1_cord_TV
+  - first:
+      213: 21300062
+    second: shot1_eye_flame_1
+  - first:
+      213: 21300064
+    second: shot1_eye_flame_2
+  - first:
+      213: 21300066
+    second: shot1_eye_flame_3
+  - first:
+      213: 21300068
+    second: shot1_flame_line_1
+  - first:
+      213: 21300070
+    second: shot1_flame_line_2
+  - first:
+      213: 21300072
+    second: shot1_flame_line_3
+  - first:
+      213: 21300074
+    second: shot1_line_flame
+  - first:
+      213: 21300076
+    second: shot1_noise_TV_back
+  - first:
+      213: 21300078
+    second: shot1_noise_TV_front
+  - first:
+      213: 21300080
+    second: shot1_space_background
+  - first:
+      213: 21300082
+    second: shot1_space_trail
+  - first:
+      213: 21300084
+    second: shot1_table
+  - first:
+      213: 21300086
+    second: shot1_text_TV
+  - first:
+      213: 21300088
+    second: shot1_text_TV_background
+  - first:
+      213: 21300090
+    second: shot1_trump_body
+  - first:
+      213: 21300092
+    second: shot1_trump_collar
+  - first:
+      213: 21300094
+    second: shot1_trump_eye
+  - first:
+      213: 21300096
+    second: shot1_trump_eye_close
+  - first:
+      213: 21300098
+    second: shot1_trump_eyebrow
+  - first:
+      213: 21300100
+    second: shot1_trump_eyelid
+  - first:
+      213: 21300102
+    second: shot1_trump_hand_1_back
+  - first:
+      213: 21300104
+    second: shot1_trump_hand_1_front
+  - first:
+      213: 21300106
+    second: shot1_trump_hand_2_back
+  - first:
+      213: 21300108
+    second: shot1_trump_hand_2_front
+  - first:
+      213: 21300110
+    second: shot1_trump_head
+  - first:
+      213: 21300112
+    second: shot1_trump_mouth_1
+  - first:
+      213: 21300114
+    second: shot1_trump_mouth_2
+  - first:
+      213: 21300116
+    second: shot1_trump_mouth_3
+  - first:
+      213: 21300118
+    second: shot1_trump_mouth_4
+  - first:
+      213: 21300120
+    second: shot1_trump_mouth_5
+  - first:
+      213: 21300122
+    second: shot1_trump_nose
+  - first:
+      213: 21300124
+    second: shot1_trump_pupil
+  - first:
+      213: 21300126
+    second: shot1_trump_shadow
+  - first:
+      213: 21300128
+    second: twitch_body
+  - first:
+      213: 21300130
+    second: twitch_body2
+  - first:
+      213: 21300132
+    second: twitch_eyes_3
+  - first:
+      213: 21300134
+    second: twitch_glasses
+  - first:
+      213: 21300136
+    second: twitch_hand1_1
+  - first:
+      213: 21300138
+    second: twitch_hand1_2
+  - first:
+      213: 21300140
+    second: twitch_hand1_3
+  - first:
+      213: 21300142
+    second: twitch_hand2_1
+  - first:
+      213: 21300144
+    second: twitch_hand2_2
+  - first:
+      213: 21300146
+    second: twitch_hand2_3
+  - first:
+      213: 21300148
+    second: twitch_head
+  - first:
+      213: 21300150
+    second: twitch_leg1_1
+  - first:
+      213: 21300152
+    second: twitch_leg1_2
+  - first:
+      213: 21300154
+    second: twitch_leg1_3
+  - first:
+      213: 21300156
+    second: twitch_leg2_1
+  - first:
+      213: 21300158
+    second: twitch_leg2_2
+  - first:
+      213: 21300160
+    second: twitch_leg2_3
+  - first:
+      213: 21300162
+    second: twitch_mouth_3
+  - first:
+      213: 21300164
+    second: unicorn_body
+  - first:
+      213: 21300166
+    second: unicorn_ear_left
+  - first:
+      213: 21300168
+    second: unicorn_ear_right
+  - first:
+      213: 21300170
+    second: unicorn_eye
+  - first:
+      213: 21300172
+    second: unicorn_eye_pupil
+  - first:
+      213: 21300174
+    second: unicorn_eyelid
+  - first:
+      213: 21300176
+    second: unicorn_hand_left
+  - first:
+      213: 21300178
+    second: unicorn_hand_r
+  - first:
+      213: 21300180
+    second: unicorn_head
+  - first:
+      213: 21300182
+    second: unicorn_horn
+  - first:
+      213: 21300184
+    second: unicorn_leg_left
+  - first:
+      213: 21300186
+    second: unicorn_leg_right
+  - first:
+      213: 21300188
+    second: unicorn_mane
+  - first:
+      213: 21300190
+    second: unicorn_tail
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duck_body
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1087
+        width: 122
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcabeac0f219406cbd249d566a8a1d3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_ear_l
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1407
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef1be5f6867641c487e4be353f6f102
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_ear_r
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1417
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b37bcc915e413f8b3d1d088c5e95d
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_eye
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1403
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59868d0df42ef49a4b77202358e88e2e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_leg_1
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1349
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf7b8d41d24448eeb09545b92a4ec31
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_leg_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1417
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed4eab4ac4e445ea461665ae3c873a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_leg_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1387
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96acfd01bec2d4522b57f16fbf200e08
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_leg_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1417
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c5520c6ed647dfa908ab977b67b15
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_mouth
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 572
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d90e5d44c64634b971d8a4f190f12
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck_tail
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1403
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1739bc17ea4b479a93a3eff728ab819
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_body
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1242
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835ce99762ab4bd889950181697b95a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_ear_l
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1190
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8a80b536eb64f4b92a1b639ec88a76
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_ear_r
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 532
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9243e45fcb5e414e92037e27c3b6c89
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_eye
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1387
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c7e4d01c3fd41e98c1780a3c10db8e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_leg_1
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1390
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f91e98929346918603f77a1743a71
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_leg_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1209
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9c21db68ef49a48b2a042fba37c69
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_leg_3
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1402
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e6c78491184407b47c873e01eb37b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_leg_4
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1204
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fbcf5ee46df459583771bc808f4288
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_mouth
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1443
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3cba7a5664424e82a6ff7ef4b148e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortnite_tail
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1406
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a89d263cbd4c3a8a7d48b24a290ea
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_BREAKING
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 490
+        width: 608
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29f2bd555dc14509a31bc0aa61bc2e3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_BREAKING_NEWS_back
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4071bd191b447f2aebc6f450e9a446
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_NEWS
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 926
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aada0fd1e4f488e9440ae1f23d8f45
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_PINATAS ATTACK!
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 873
+        width: 520
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ad14a3e507f452b877deff0edb1aa6
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_TV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 799
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb81678fa1643f6bf4fefb120f4ff3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_bacground_city_TV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1005
+        width: 719
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4956f89f2ccf4863b4a531ac2c0618f
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_background
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2
+        width: 512
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55c42d3b4064871a6cb640d934dfed
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_background_city_back_TV
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 626
+        width: 731
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81261a893bcb344ba878a0df449c6f04
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_circle_flame
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1387
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618cac0e326c845438ecd84b930c7b31
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_clouds_TV
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1127
+        width: 199
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbefc11695c094fa3b95ad717af73f41
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_cord_TV
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e2e476608804607b044ac88d3c6ce7
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_eye_flame_1
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1403
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14052bcb105b4b1497b51ca15aeb573
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_eye_flame_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1312
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413991ae9865a4af8a6f1cbdb2159af3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_eye_flame_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 926
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4278930af661f4817865339c7beb3004
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_flame_line_1
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d83b9530e6e4ebabaf8b82259bc3e0
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_flame_line_2
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9780991f4ece34b1da8d373fa465f74e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_flame_line_3
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888e7e07b5c204e439e68a692a7dcd74
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_line_flame
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1209
+        width: 7
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55a9e0a6e0349b2915a37aa203c1b8
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_noise_TV_back
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1334
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c3cc39389544e5ea474c26630dee25
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_noise_TV_front
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1300
+        width: 768
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec4cbcfe4a7443389c27fb07e076e7
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_space_background
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 704
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df69a4f2a164b1b92d3281d3aac008
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_space_trail
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1023
+        width: 229
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e98f408a6d400796635e7d2917f28
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_table
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 572
+        width: 483
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dc5d1ed62a142d9b160b9ed357da73
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_text_TV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1445
+        width: 659
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6a6ab6d1e904a5381a850edaf8600e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_text_TV_background
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 708
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe64e8a40fd46f6b04f0b486e7ef48
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_body
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1209
+        width: 346
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9df7695c0643e39ad7382f5378a43
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_collar
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 873
+        width: 158
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de2f51c307d4f6c8426d04034b3937
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_eye
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1406
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838e26ff8e8a34342a1b8bfdace8df94
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_eye_close
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1445
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029194588567445f2a5ded1f9ab38d7a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_eyebrow
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1023
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e83cf8ec97b413d88451fac0f6c90b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_eyelid
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1417
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488926bb5a5e44f98a74ce9dfbdc8d86
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_hand_1_back
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1087
+        width: 51
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c042763810bc24d548e3ea5904a6897c
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_hand_1_front
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1087
+        width: 50
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877840a2d446d426f8a544f656a71f95
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_hand_2_back
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1023
+        width: 178
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f011d286b514431a76e3c5e3c2d3c4
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_hand_2_front
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1234
+        width: 51
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fda08caa6437485384fcd7fd04b174b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_head
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 926
+        width: 417
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fcc1899e894d7da3aeceb1d938262
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_mouth_1
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1407
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35815639376824a7ca82f3695131f340
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_mouth_2
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1403
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9119e071f8b9455aa1100dedd73b69b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_mouth_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1234
+        width: 52
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c31bbcea225c4101bb374d058c39ddb
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_mouth_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 532
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5bad12401bc47cd91df0d6a60dc8aa
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_mouth_5
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1323
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea862d8262ce44854ba2268fe56ac066
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_nose
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1273
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7190356a76f1416381de5748683bd9b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_pupil
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1443
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7759ebee4f94c6d91ce3240c962a74
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot1_trump_shadow
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2
+        width: 629
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1bb99b41d640c19a7a26b65515907
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_body
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1204
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6311c8961f6c547fa9afc1748d14f6a6
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_body2
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1379
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0daa98d27d34a02aa45d4698a94f6b
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_eyes_3
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 602
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ae194fb5e44a58b961ed9db24240d
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_glasses
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1417
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4cc4e0e11b04f20a5eceb829d7b520
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand1_1
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 543
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f6801e50c7a47a29a652ec91eabdfe
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand1_2
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 656
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad3ba9030ca4256ade84c39329097e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand1_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1356
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afce839cc6f74536a79f7f9191834ad
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand2_1
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 707
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdbeee3da9094c86bb20222ac9894c2
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand2_2
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 758
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc5479ce69dc4b68accc2420329fc93
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_hand2_3
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1422
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffef0fd31e9d4c5394eb5105cba436c
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_head
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1076
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37093873f362412c86020c779758970
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg1_1
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 490
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c0d8665178447e0b69eeff4ffcdd0e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg1_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1455
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b534e545a7b4761b025b7adcba15b4
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg1_3
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 594
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e835507584848778c1e13a8eb84add
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg2_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1455
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f067de8daca34a079195016946d81a1
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg2_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1455
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895a9ec0bfa642c0b8fe3f61ffdf5e2
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_leg2_3
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1456
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cb26b26d785453aa9c5797165b04ad
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twitch_mouth_3
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1087
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ee66dfb71e4ab292e23f04ff81909
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_body
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1076
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c44b91c20ded45b8915b47af3211548
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_ear_left
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 809
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330c6517c103e4222ade8d85193860eb
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_ear_right
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 857
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8359885508948f0a070b42aaf724cc
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_eye
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1397
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a030c154013f447b9e920a2a0920a70
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_eye_pupil
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71cd3ca57e44d13b2748197c55554e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_eyelid
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1288
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec41208401eaa43c88cd3bc3c47fb236
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_hand_left
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1403
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75dd6840b6a4bf98ad207238d207eb
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_hand_r
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1388
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fd2750cd2d4bf39fbfeab36932665
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_head
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1288
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff85a6358c8f42ec9621e2290b6010c
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_horn
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1443
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3170481c2e9649599acbaaea2acba0a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_leg_left
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1371
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e69050360d48f789187f806c19b32
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_leg_right
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 873
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a785d5624d245fbbc9fb047a0e92d3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_mane
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1417
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59070eaf7f2b645e3b49f90c0d39535a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_tail
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1416
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db947c5ecc048f9b32cf527a84b0ed
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 457907afafac447d68766e6f19397297
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

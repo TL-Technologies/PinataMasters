@@ -1,0 +1,104 @@
+
+batman_body.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 301, 40
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+cape_front
+  rotate: false
+  xy: 161, 55
+  size: 138, 71
+  orig: 138, 71
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 161, 2
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 465, 15
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: true
+  xy: 449, 33
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 402, 65
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: true
+  xy: 291, 12
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 336, 12
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 10
+  size: 116, 157
+  orig: 116, 157
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 236, 8
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+mouth_angry
+  rotate: false
+  xy: 236, 26
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 375, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 466, 45
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: true
+  xy: 402, 37
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1

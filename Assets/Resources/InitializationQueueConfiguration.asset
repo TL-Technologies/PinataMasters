@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f03409086b3b4fd5819f4cdfb632ea9, type: 3}
+  m_Name: InitializationQueueConfiguration
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  serviceBindings:
+  - serviceClass: CustomAdvertisingManager, Pinatamasters, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.Analytics.AnalyticsManager, Modules.Analytics, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.General.Scheduler, Modules.General, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    servicePrefab: {fileID: 135790981805631581, guid: 4817a2aadceee47d29c11d5864c91c81,
+      type: 3}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.General.SystemPopupService, Modules.General, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.Analytics.AnalyticsProcessor, Modules.Analytics, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.General.DataStateService, Modules.General, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.General.RemoteAvailabilityService, Modules.General, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.General.Utilities.AdvertisingIdentifierService, Modules.General,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.InAppPurchase.StoreSettings, Modules.InAppPurchase, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 11400000, guid: ec308898c98fd48b49c8ccb649ce04aa, type: 2}
+  - serviceClass: Modules.InAppPurchase.StoreManager, Modules.InAppPurchase, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.AppsFlyer.PurchaseAnalyticsImplementor, Modules.AppsFlyer,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    servicePrefab: {fileID: 0}
+    serviceAsset: {fileID: 0}
+  - serviceClass: Modules.Max.MaxPrivacyManager, Modules.Max, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    servicePrefab: {fileID: 1562690137479524700, guid: 6b92f133a952242bdb730f70019ad710,
+      type: 3}
+    serviceAsset: {fileID: 0}

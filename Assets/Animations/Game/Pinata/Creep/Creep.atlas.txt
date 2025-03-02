@@ -1,0 +1,139 @@
+
+Creep.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blick
+  rotate: false
+  xy: 2, 43
+  size: 227, 187
+  orig: 227, 187
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 232
+  size: 250, 278
+  orig: 250, 278
+  offset: 0, 0
+  index: -1
+body_red
+  rotate: false
+  xy: 254, 232
+  size: 250, 278
+  orig: 250, 278
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 506, 367
+  size: 257, 143
+  orig: 257, 143
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 231, 2
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+eye_red
+  rotate: false
+  xy: 292, 2
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 765, 449
+  size: 257, 61
+  orig: 257, 61
+  offset: 0, 0
+  index: -1
+lef_back_right
+  rotate: false
+  xy: 506, 237
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+lef_back_right_red
+  rotate: false
+  xy: 231, 66
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+leg_front_left
+  rotate: true
+  xy: 765, 278
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+leg_front_left_red
+  rotate: false
+  xy: 893, 268
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+leg_front_right
+  rotate: false
+  xy: 627, 237
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+leg_front_right_red
+  rotate: false
+  xy: 352, 66
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 748, 210
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+mouth_fill
+  rotate: false
+  xy: 862, 200
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+mouth_fill_red
+  rotate: true
+  xy: 473, 82
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 935, 410
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 765, 396
+  size: 168, 51
+  orig: 168, 51
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 231, 196
+  size: 258, 34
+  orig: 258, 34
+  offset: 0, 0
+  index: -1

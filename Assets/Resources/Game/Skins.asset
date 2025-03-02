@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50625592a58fd4e88924d8091ff51ac5, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier: 
+  skins:
+  - Sprite: {fileID: 21300000, guid: 9d7b3b4458b6743a7b1bbe23b6659194, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: 95eff5a49539c4969b1785e5ab3900b7, type: 3}
+    NameKey: ui.skin.ninja
+    body: {fileID: 11400000, guid: bba6a452ade5542a09b7488e36e2b041, type: 2}
+    legs: {fileID: 11400000, guid: 36393f24bdb9c4216a1747b252fff42b, type: 2}
+    skill: {fileID: 11400000, guid: 6b70639ac7d6442b0b301b3eeeaf2dd4, type: 2}
+  - Sprite: {fileID: 21300000, guid: 91d8c27e4b4864940a1acf31671536a1, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: 7d85464f3b50b4429b6dc8ee5ee52fd4, type: 3}
+    NameKey: 50
+    body: {fileID: 11400000, guid: a56b35534d9574a07a176cf7659c37db, type: 2}
+    legs: {fileID: 11400000, guid: e7154f19fefc34a0b94133da72b607bc, type: 2}
+    skill: {fileID: 11400000, guid: 98147db6f861149b4b05dd92a99c5442, type: 2}
+  - Sprite: {fileID: 21300000, guid: 165ba16349b074768a449e0abd27ea73, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: 5d2844f7912d345029701803ecdbaf82, type: 3}
+    NameKey: ui.skin.shark
+    body: {fileID: 11400000, guid: 39dfeafcb2f5347b2a7a54c2cdbf7e29, type: 2}
+    legs: {fileID: 11400000, guid: 7a1b771c1f4ee4d3d953809355cc4d5a, type: 2}
+    skill: {fileID: 11400000, guid: 11f8d95f2bd68449a87a5fbf8f3ed847, type: 2}
+  - Sprite: {fileID: 21300000, guid: e7c1f1c7130ae4bf19f64fb8b63f4132, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: bb4f42946f95c449eb9a8a92505adf07, type: 3}
+    NameKey: ui.skin.catman
+    body: {fileID: 11400000, guid: c5b6cdbf63cc94d0a9e660eb481f00c4, type: 2}
+    legs: {fileID: 11400000, guid: de674d5f43b8141d9ba5027166fd1844, type: 2}
+    skill: {fileID: 11400000, guid: 9f4fb24e2072249e98e24e16b60e7d0c, type: 2}
+  - Sprite: {fileID: 21300000, guid: fa5555ae66848431390d43ae306e1264, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: c5321b48b1e6f49d2b534a0e755e9ece, type: 3}
+    NameKey: ui.skin.gorsky
+    body: {fileID: 11400000, guid: 9eea002f678c94966a3a154b716284e6, type: 2}
+    legs: {fileID: 11400000, guid: 525f3dfd0d1554a2b9249ab4d68517e9, type: 2}
+    skill: {fileID: 11400000, guid: ed40fd42961224199a13a63610688ba0, type: 2}
+  - Sprite: {fileID: 21300000, guid: ea74d7d38585a4bf6a3257d71d0f2012, type: 3}
+    ShadowSprite: {fileID: 21300000, guid: b6081107ec929495c8f43274c3943ce2, type: 3}
+    NameKey: ui.skin.jason
+    body: {fileID: 11400000, guid: bbb4aa8ac9ad04d68ab4bee9ca9ba7c6, type: 2}
+    legs: {fileID: 11400000, guid: 57b7ed95bc56c43e59869795d33afcc1, type: 2}
+    skill: {fileID: 11400000, guid: da0870f53840e476d8ef1f17e5a8da5e, type: 2}

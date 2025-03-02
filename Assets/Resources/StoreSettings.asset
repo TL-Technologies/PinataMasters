@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42ed97063d4c428488ba9f55784c9adf, type: 3}
+  m_Name: StoreSettings
+  m_EditorClassIdentifier: 
+  appStoreAppId: 1438090112
+  googlePlayAppPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp+iFUNnkhl0KONv/1IfBIEya+HfK22333/KHvdNwLhMUOC//rO2jJjh1/2IyiEC+sGkcm5B+bz9lMHi3j+Qm7w1rkb8R2N6962vILI4aqKWWp34a3cXA7zw4KVxknKytgxfxmTj1TLZai9KVjW6eT9SecOGUBHmd0XckhUdhxCVQF6LY3DvRbqdOCJB2fxbaG29qojv6m2qDtg7YPnGFZ3KfWZM/75n0AUE1yfIq2z28D/IIw2a64oK/Z/viCM5ExbKXpB+rpAoIM19TtjOJeRcDh5nlRlfr/B7x7T78Qfgo1wPOj2zbvKFcMAT6FUYvQ7hwB710lgWbYJx5WIQdcQIDAQAB
+  shouldPurchaseParentProduct: 0
+  storeItemsSettings:
+  - id: dimondweekly
+    storeSpecificIds: []
+    priceTier: 8
+    itemType: 2
+    subscriptionType: 1
+  - id: dimondmonthly
+    storeSpecificIds: []
+    priceTier: 20
+    itemType: 2
+    subscriptionType: 2
+  - id: dimondeyearly
+    storeSpecificIds: []
+    priceTier: 60
+    itemType: 2
+    subscriptionType: 3
+  - id: nosubscription
+    storeSpecificIds: []
+    priceTier: 30
+    itemType: 1
+    subscriptionType: 0
+  - id: pack.s
+    storeSpecificIds: []
+    priceTier: 2
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.m
+    storeSpecificIds: []
+    priceTier: 3
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.l
+    storeSpecificIds: []
+    priceTier: 5
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xs
+    storeSpecificIds: []
+    priceTier: 10
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xm
+    storeSpecificIds: []
+    priceTier: 15
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xl
+    storeSpecificIds: []
+    priceTier: 20
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxs
+    storeSpecificIds: []
+    priceTier: 25
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxm
+    storeSpecificIds: []
+    priceTier: 30
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxl
+    storeSpecificIds: []
+    priceTier: 35
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxxs
+    storeSpecificIds: []
+    priceTier: 40
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxxm
+    storeSpecificIds: []
+    priceTier: 50
+    itemType: 0
+    subscriptionType: 0
+  - id: pack.xxxl
+    storeSpecificIds: []
+    priceTier: 60
+    itemType: 0
+    subscriptionType: 0

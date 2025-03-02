@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 279f476373fda412493698d85aa0ee93, type: 3}
+  m_Name: PromoFetchUnits
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: promoUnits
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[LLPromoFetcherUnit, Modules.PromoFetch]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 14
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/bouncemasters.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: https://www.instagram.com/p/CbaO8eHoys1/?like=true
+    - Name: promoType
+      Entry: 3
+      Data: 0
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/perfect.cream.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/p/CbHriPkomqI/?like=true '
+    - Name: promoType
+      Entry: 3
+      Data: 0
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/hitmasters.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/p/CbFdR6VgFiw/?like=true '
+    - Name: promoType
+      Entry: 3
+      Data: 0
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/drawmaster.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/p/CbM8Zm3MeC0/?like=true '
+    - Name: promoType
+      Entry: 3
+      Data: 0
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: https://www.instagram.com/partymasters.game?subscription=true
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/p/CbKNtxLlQKx/?like=true  '
+    - Name: promoType
+      Entry: 3
+      Data: 0
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/escapemasters.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/flow.legends.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/bridge.legends.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: LLPromoFetcherUnit, Modules.PromoFetch
+    - Name: promoURL
+      Entry: 1
+      Data: 'https://www.instagram.com/pinatamasters.game?subscription=true '
+    - Name: promoType
+      Entry: 3
+      Data: 2
+    - Name: placement
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

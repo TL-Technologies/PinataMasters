@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VFX
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2cecb6a90081647508e060a443835d2b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b4ef200d028c4d508dc15aa54c3b41e, type: 3}
+  - {fileID: 21300000, guid: 2904092094aed4fe6b0349092dcff9f0, type: 3}
+  - {fileID: 21300000, guid: 0ec2749031c4045c9aff70968f5c79bf, type: 3}
+  - {fileID: 21300000, guid: cc3d1690f316c40519294319dc7672d7, type: 3}
+  - {fileID: 21300000, guid: 050d0d90063ba4b03a7ebc369ebcc8b2, type: 3}
+  - {fileID: 21300000, guid: 2b3e780185ca64887beaf7a70e7a52d5, type: 3}
+  - {fileID: 21300000, guid: fdb933213ed514c4abd86fb4337ff1f9, type: 3}
+  - {fileID: 21300000, guid: e68de621592e34456a592689d19ffa5f, type: 3}
+  - {fileID: 21300000, guid: 3772bc51070b04eecbc77dbef65efb02, type: 3}
+  - {fileID: 21300000, guid: e3e384718a8bb444c8311a9bf6bfaa7e, type: 3}
+  - {fileID: 21300000, guid: a43277b115ed746b4bfcf9520bf8d0ce, type: 3}
+  - {fileID: 21300000, guid: 2970fe224f7c44c98bcee3150c6630a5, type: 3}
+  - {fileID: 21300000, guid: 9ff7a8825d44449538a355b13323d58d, type: 3}
+  - {fileID: 21300000, guid: 4a7fa8929be6c42888e84365996f775a, type: 3}
+  - {fileID: 21300000, guid: b91990a2eaa944542baeb2af6ecfc9c0, type: 3}
+  - {fileID: 21300000, guid: 11c0a0e20bda7423fb338ef9c806a095, type: 3}
+  - {fileID: 21300000, guid: c890d183c74154d1a91761793dfddebf, type: 3}
+  - {fileID: 21300000, guid: 3d2bcd839b5ab428b957d945d23e57e1, type: 3}
+  - {fileID: 21300000, guid: 885490b3792b142b0869ef005de65589, type: 3}
+  - {fileID: 21300000, guid: 968694e3ee148468d8e42131aa2e2818, type: 3}
+  - {fileID: 21300000, guid: f8446ef391bfe44f3aea4daf08e9f4a9, type: 3}
+  - {fileID: 21300000, guid: b5dbf50446a83497ab0cb0bc04c04e5f, type: 3}
+  - {fileID: 21300000, guid: 7e2b1fa45473243b89baae802327f2be, type: 3}
+  - {fileID: 21300000, guid: 06bd64b4923f9435893e38b5a8e886ec, type: 3}
+  - {fileID: 21300000, guid: 8ead3345e33aa4fa4bb16cf0f367bc6f, type: 3}
+  - {fileID: 21300000, guid: 6f4d9e451a9e84aa0832401776b656c6, type: 3}
+  - {fileID: 21300000, guid: 9b7335755d5274a2aaa9e1134e9cf7a4, type: 3}
+  - {fileID: 21300000, guid: 0e1c92b594b8740769d9c098f6450a2a, type: 3}
+  - {fileID: 21300000, guid: 7d68ba16e19d44e62a55f73770503828, type: 3}
+  - {fileID: 21300000, guid: 87b085560a1a041ea9265a0824f636ba, type: 3}
+  - {fileID: 21300000, guid: 3c7d37569f0014ccf9bc1b89807e4466, type: 3}
+  - {fileID: 21300000, guid: 1512be86714324917ba3af3d27fba0bf, type: 3}
+  - {fileID: 21300000, guid: 533baeb63bd7d474a8bdafc4b087a0d8, type: 3}
+  - {fileID: 21300000, guid: c00474c60b87d4bd281b3dcd93d703d1, type: 3}
+  - {fileID: 21300000, guid: bc98d307033fa45fa81fa987a6d5d24f, type: 3}
+  - {fileID: 21300000, guid: e7721a0744bad4dd1b58ad7505011b56, type: 3}
+  - {fileID: 21300000, guid: ad6ec897bcffe4b9c82787b6d6d8248a, type: 3}
+  - {fileID: 21300000, guid: d05c08b7d8c014348817e59e85e9f802, type: 3}
+  - {fileID: 21300000, guid: 87d169b79e64e46209e50f8d7e5d48cf, type: 3}
+  - {fileID: 21300000, guid: 2d7268f7a2137499b9d86fa9d2ae00b0, type: 3}
+  - {fileID: 21300000, guid: dbf7d208d25af43e3acb1a553108c1a1, type: 3}
+  - {fileID: 21300000, guid: a4363f088e61d407899241aeb32a45d0, type: 3}
+  - {fileID: 21300000, guid: 7d9d71687a01943b6b9524240190a0f9, type: 3}
+  - {fileID: 21300000, guid: 46a8ed7892ad34b6982fa7dee031e0e1, type: 3}
+  - {fileID: 21300000, guid: f1061239ceab843ce81a92cfe99a39d9, type: 3}
+  - {fileID: 21300000, guid: 371ad469bf3e54aeab8d4f8c9f4e5579, type: 3}
+  - {fileID: 21300000, guid: 9e83057a3c14e472fa72be4a2bf0c273, type: 3}
+  - {fileID: 21300000, guid: f58447ba4c8ec4afa92c6050cffdb455, type: 3}
+  - {fileID: 21300000, guid: 310da1caf35d24892b84dd01429ad5a8, type: 3}
+  - {fileID: 21300000, guid: ddd2786b439904b3fa67c13b98882a63, type: 3}
+  - {fileID: 21300000, guid: 20a93e7b2bc044f22861c95a10362617, type: 3}
+  - {fileID: 21300000, guid: d67a7f7bb809e4a1f9aa8a5ded8d887a, type: 3}
+  - {fileID: 21300000, guid: 99711bbb81695495cad04d7e832e265d, type: 3}
+  - {fileID: 21300000, guid: 5ebf95cb9d7cd4c938f3cd6367d7928e, type: 3}
+  - {fileID: 21300000, guid: 3d587deb79e254b8cb46dbbb4bca098b, type: 3}
+  - {fileID: 21300000, guid: 0699ffebd3248448dbfa6f430c177bfd, type: 3}
+  - {fileID: 21300000, guid: 6731401c7ef154b35bd40450eda03a2c, type: 3}
+  - {fileID: 21300000, guid: b5d9751cdc78a42ef9b16448b910419b, type: 3}
+  - {fileID: 21300000, guid: aa3fd84c47b3a4f69bcc8d7fd7ed832d, type: 3}
+  - {fileID: 21300000, guid: c332165c218644706b304369b1239301, type: 3}
+  - {fileID: 21300000, guid: 84e8107c74495452ead95312be6d8bc7, type: 3}
+  - {fileID: 21300000, guid: 945e9d7caf93441218b1145fee041458, type: 3}
+  - {fileID: 21300000, guid: 7863f38c9ee8640fa907273805db561d, type: 3}
+  - {fileID: 21300000, guid: ad47dc9ca04844b54bc72326f1f619d0, type: 3}
+  - {fileID: 21300000, guid: 6fad814d56f364113a6df3436127aaef, type: 3}
+  - {fileID: 21300000, guid: 26adb69de109548358b1963f7a043e9f, type: 3}
+  - {fileID: 21300000, guid: 565a7bbdcc87746ce8f9d124d8cdeb67, type: 3}
+  - {fileID: 21300000, guid: ece76fcd05d6d4ce68ba4ab7841aeaa6, type: 3}
+  - {fileID: 21300000, guid: c48c39ed14e82417cada728f8864d614, type: 3}
+  - {fileID: 21300000, guid: 590eb01ef2dc6413eafb6b9ca763c1e5, type: 3}
+  - {fileID: 21300000, guid: e5363a1e9741a4e14aba060c6c81a98b, type: 3}
+  - {fileID: 21300000, guid: 0fbc0a9ef75934e6698e1f6afb83135a, type: 3}
+  - {fileID: 21300000, guid: 0f5f5a9e475284a02aa532895dfb69df, type: 3}
+  - {fileID: 21300000, guid: 4418d2be81928441e947494dc1fbda1b, type: 3}
+  - {fileID: 21300000, guid: 699af6ee0618c44d68b248a5f28a20da, type: 3}
+  - {fileID: 21300000, guid: 81f469fed763f4a4baed4ce75f6ad9ba, type: 3}
+  - {fileID: 21300000, guid: ffac800f4fd8a45de881daa9ddbeadef, type: 3}
+  - {fileID: 21300000, guid: 0873e02f38f844fce8c58e77bca3aca5, type: 3}
+  - {fileID: 21300000, guid: 175bf93f747de4bffbb9e4c37a5ae379, type: 3}
+  - {fileID: 21300000, guid: f25cba5f63d564b65b2837ee1050d92e, type: 3}
+  - {fileID: 21300000, guid: 1d64527ff9ea34c4682a8776bb771cee, type: 3}
+  - {fileID: 21300000, guid: 1b0c5d7f1305940e4b04de50ea6f5a7f, type: 3}
+  - {fileID: 21300000, guid: 55c15afff12ec4bf98f53d2e6232ef18, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FX_particle_0_0
+  - FX_cotton_texture
+  - FX_ak47_glow
+  - FX_shine_1_256
+  - VFX_Trail_0a_0
+  - FX_coil_4
+  - FX_congetti_cquare
+  - FX_Arrow_LevelUp
+  - FX_particle_2
+  - FX_bazooka_glow
+  - FX_boomerang_glow
+  - FX_trail
+  - FX_Dust_Small_0
+  - FX_star_0a
+  - FX_Light_coil_M
+  - FX_Star_4
+  - FX_dust_small_1
+  - FX_shine_3_512
+  - FX_hammer_glow
+  - FX_shotgun_glow
+  - FX_dust_back
+  - FX_light_sword_glow
+  - FX_particle_5
+  - FX_obstacleHit
+  - fx_heart
+  - FX_Coil_1
+  - FX_stunned
+  - FX_fire_0
+  - FX_pistol_glow
+  - FX_Lightnings
+  - FX_Arrow_LevelUp_0
+  - FX_shine_0_0
+  - FX_grenade_green_glow
+  - FX_fire_explosion
+  - FX_AWP_glow
+  - FX_SCAR_glow
+  - gems_FX
+  - FX_particle_0
+  - FX_smoke_1_0
+  - trail_texture
+  - FX_Star_1a
+  - FX_batarang_glow
+  - FX_coin_active
+  - FX_gamepad_glow
+  - FX_star_2
+  - FX_coil_3
+  - FX_shine_1_256_0
+  - FX_coil_2
+  - FX_star_1
+  - FX_feather
+  - FX_sparcles_long_a
+  - FX_stunned_2
+  - FX_fortnite_parts
+  - FX_particle_1
+  - FX_rays_1
+  - FX_UZI_glow
+  - FX_shine_2_512
+  - VFX_Trail_0a
+  - FX_Dust_M
+  - FX_saw_glow
+  - FX_pickaxe_glow
+  - FX_prestige_panel_glow
+  - FX_Dust_S
+  - FX_plasma_glow
+  - FX_blaster_glow
+  - FX_bird_glow
+  - FX_Creep_hit
+  - FX_shine_0
+  - FX_unlock_button
+  - collectBig_btn
+  - FX_katana_glow
+  - FX_grenade_pink_glow
+  - FX_dark_circle
+  - FX_smoke_1
+  - FX_particle_long_2
+  - FX_molotov_glow
+  - FX_Coil_4_0
+  - FX_shine_1_128
+  - FX_ray
+  - FX_rays
+  - upgrade_btn
+  - fx_coil_medium_0
+  - Button_Blik
+  m_Tag: VFX
+  m_IsVariant: 0

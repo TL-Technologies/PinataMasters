@@ -1,0 +1,34 @@
+
+shark_legs.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shin_l
+  rotate: false
+  xy: 2, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+shin_r
+  rotate: false
+  xy: 34, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+thigh_l
+  rotate: false
+  xy: 66, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+thigh_r
+  rotate: false
+  xy: 98, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1

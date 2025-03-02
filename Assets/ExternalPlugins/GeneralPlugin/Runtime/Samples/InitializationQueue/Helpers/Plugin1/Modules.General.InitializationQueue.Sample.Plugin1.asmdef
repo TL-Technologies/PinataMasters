@@ -1,0 +1,16 @@
+{
+    "name": "Modules.General.InitializationQueue.Sample.Plugin1",
+    "references": [
+        "Modules.General",
+        "Modules.Hive"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "com.playgendary.modules.edm4u",
+  "version": "1.1.0",
+  "displayName": "ExternalDependencyManager",
+  "description": "ExternalDependencyManager module",
+  "unity": "2017.1",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {},
+  "hideInEditor": false,
+  "internal": {
+      "com.google.external-dependency-manager" : "1.2.168"
+  }
+}

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: Bird
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: Bird
+  Price: 10700000
+  Sprite: {fileID: 21300000, guid: c43bcfa40e2494afab52fbe35b34028d, type: 3}
+  Mask: {fileID: 21300000, guid: 58a66def7541a434da2b6710b89c9ca5, type: 3}
+  UnlockEffect: {fileID: 198856129034883572, guid: fed5c22dbc3f84ef58cb5b7ae2f4858e,
+    type: 3}
+  AmmoBase: 33
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 55300
+  DamageBase: 8630
+  DamageUpgrade: 262
+  DamageUpgradePrice: 50100
+  CoinsBase: 5
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 4423e736d4571440d9d57c5941ed3e32, type: 3}
+    Aim: 0
+    PrefabShell: {fileID: 114909252761359418, guid: 9bfbcfc40361148e2a69c176c87e6e8b,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 1
+    RateOfFire: 0
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 8300000, guid: 92e81e3b750f045369b524135e39dbcc, type: 3}
+    ShotClipVolume: 1
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

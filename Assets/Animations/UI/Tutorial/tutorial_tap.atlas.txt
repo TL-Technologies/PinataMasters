@@ -1,0 +1,27 @@
+
+tutorial_tap.png
+size: 521,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swipe_circle
+  rotate: false
+  xy: 399, 116
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+swipe_ring
+  rotate: false
+  xy: 213, 52
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+tutor_hand
+  rotate: false
+  xy: 2, 2
+  size: 209, 234
+  orig: 209, 234
+  offset: 0, 0
+  index: -1

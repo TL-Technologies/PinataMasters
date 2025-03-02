@@ -1,0 +1,237 @@
+
+3_scene_.png
+size: 2034,2029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shot1/shot1_trump_eye_close
+  rotate: true
+  xy: 1862, 604
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+eye_new
+  rotate: true
+  xy: 1836, 359
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1904, 702
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+shoot3_armrest_back_left
+  rotate: false
+  xy: 1186, 6
+  size: 315, 286
+  orig: 315, 286
+  offset: 0, 0
+  index: -1
+shoot3_armrest_back_right
+  rotate: false
+  xy: 1305, 1189
+  size: 367, 287
+  orig: 367, 287
+  offset: 0, 0
+  index: -1
+shoot3_armrest_front_centre
+  rotate: true
+  xy: 1189, 481
+  size: 693, 151
+  orig: 693, 151
+  offset: 0, 0
+  index: -1
+shoot3_armrest_front_left
+  rotate: false
+  xy: 1503, 6
+  size: 315, 286
+  orig: 315, 286
+  offset: 0, 0
+  index: -1
+shoot3_armrest_front_right
+  rotate: false
+  xy: 1674, 1190
+  size: 315, 286
+  orig: 315, 286
+  offset: 0, 0
+  index: -1
+shoot3_chair_centre
+  rotate: false
+  xy: 2, 1018
+  size: 452, 1009
+  orig: 452, 1009
+  offset: 0, 0
+  index: -1
+shoot3_chair_front_centre
+  rotate: false
+  xy: 2, 7
+  size: 452, 1009
+  orig: 452, 1009
+  offset: 0, 0
+  index: -1
+shoot3_chair_front_right
+  rotate: false
+  xy: 456, 1026
+  size: 395, 1001
+  orig: 395, 1001
+  offset: 0, 0
+  index: -1
+shoot3_chair_right
+  rotate: false
+  xy: 456, 23
+  size: 395, 1001
+  orig: 395, 1001
+  offset: 0, 0
+  index: -1
+shoot3_chair_shadow_centre
+  rotate: false
+  xy: 853, 1176
+  size: 450, 851
+  orig: 450, 851
+  offset: 0, 0
+  index: -1
+shoot3_chair_shadow_right
+  rotate: false
+  xy: 853, 330
+  size: 334, 844
+  orig: 334, 844
+  offset: 0, 0
+  index: -1
+shoot3_char_belt
+  rotate: false
+  xy: 1738, 769
+  size: 259, 107
+  orig: 259, 107
+  offset: 0, 0
+  index: -1
+shoot3_char_body
+  rotate: true
+  xy: 853, 2
+  size: 326, 331
+  orig: 326, 331
+  offset: 0, 0
+  index: -1
+shoot3_char_cheeks
+  rotate: false
+  xy: 1884, 1490
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+shoot3_char_eye
+  rotate: false
+  xy: 1820, 262
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+shoot3_char_eye2
+  rotate: false
+  xy: 1900, 631
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+shoot3_char_face
+  rotate: true
+  xy: 1738, 878
+  size: 310, 269
+  orig: 310, 269
+  offset: 0, 0
+  index: -1
+shoot3_char_hand1
+  rotate: true
+  xy: 1781, 576
+  size: 138, 79
+  orig: 138, 79
+  offset: 0, 0
+  index: -1
+shoot3_char_hand2
+  rotate: true
+  xy: 1781, 437
+  size: 137, 78
+  orig: 137, 78
+  offset: 0, 0
+  index: -1
+shoot3_char_head
+  rotate: true
+  xy: 1342, 693
+  size: 494, 394
+  orig: 494, 394
+  offset: 0, 0
+  index: -1
+shoot3_char_headphone_back
+  rotate: false
+  xy: 1189, 299
+  size: 135, 180
+  orig: 135, 180
+  offset: 0, 0
+  index: -1
+shoot3_char_headphone_front
+  rotate: false
+  xy: 1342, 294
+  size: 437, 397
+  orig: 437, 397
+  offset: 0, 0
+  index: -1
+shoot3_char_mouth
+  rotate: true
+  xy: 1781, 327
+  size: 108, 53
+  orig: 108, 53
+  offset: 0, 0
+  index: -1
+shoot3_char_mouth2
+  rotate: true
+  xy: 1862, 653
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+shoot3_char_mouth_sideview
+  rotate: false
+  xy: 1836, 313
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+shoot3_char_sideview
+  rotate: false
+  xy: 1305, 1478
+  size: 494, 549
+  orig: 494, 549
+  offset: 0, 0
+  index: -1
+shoot3_circle
+  rotate: false
+  xy: 1971, 643
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+shoot3_eyebrow
+  rotate: false
+  xy: 1801, 1488
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+shotgun_base
+  rotate: true
+  xy: 1801, 1522
+  size: 505, 231
+  orig: 505, 231
+  offset: 0, 0
+  index: -1
+shotgun_handguard
+  rotate: false
+  xy: 1738, 716
+  size: 164, 51
+  orig: 164, 51
+  offset: 0, 0
+  index: -1

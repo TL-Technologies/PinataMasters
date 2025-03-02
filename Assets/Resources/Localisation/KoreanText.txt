@@ -1,0 +1,114 @@
+ui.dialog.you_earned,획득하였어!
+ui.dialog.collect_double,수집 X2
+ui.dialog.collect,수집
+ui.dialog.power,힘
+ui.dialog.ammo,탄약
+ui.dialog.tap_to_start,눌러서 시작
+ui.dialog.offline_reward,+{0}% 오프라인 보상
+ui.dialog.speed,+{0}% 속도
+ui.dialog.bonus_coins,+{0}% 보너스 코인
+ui.dialog.unlock,잠금 해제
+ui.dialog.choose,선택
+ui.settings.terms_and_privacy,약관
+ui.settings.soundon,음향: 켜짐
+ui.settings.vibrationon,진동: 켜짐
+ui.settings.soundoff,음향: 꺼짐
+ui.settings.vibrationoff,진동: 꺼짐
+ui.settings.musicon,음악: 켜짐
+ui.settings.musicoff,음악: 꺼짐
+ui.settings.header,설정
+ui.removeads,모든 광고 제거
+ui.dialog.doublecoins,X2 코인 확보
+ui.dialog.doubleincome,X2 많은 리워드
+ui.popup.auto.renewable.subscription.start,무료 평가판 시작
+ui.popup.auto.renewable.subscription.button.description,3일간 무료. 이후에는 주당 {0}달러
+ui.popup.auto.renewable.subscription.week,{0}    주
+ui.popup.auto.renewable.subscription.month,{0}    개월
+ui.dailygift.header,일일 선물
+ui.offlineearnings.header,오프라인 선물을 받아!
+ui.dialog.noads.oops,이런!
+ui.dialog.noads.adsproblem,광고 없음
+ui.dialog.nointernet,인터넷 없음
+ui.dialog.language,한국어
+ui.dialog.doubleloot,코인 노획물을 두 배로 받아!
+localnotification.dailygift,일일 선물이 너를 기다리고 있어! 그냥 가져!
+localnotification.offlinereward,오프라인 상태에서 최대 코인을 지금 이용할 수 있어!  
+ui.dialog.somethingwrong,무언가 잘못되었어
+ui.dialog.ok,좋아
+ui.dialog.needcoins,코인이 필요해?
+ui.dialog.bestvalue,최고의 가치
+ui.dialog.mostpopular,최고 인기
+ui.dialog.free,+{0} 무료
+ui.dialog.buy,구매
+ui.dialog.get,받기
+ui.dialog.dayupper,{0}일
+ui.dialog.daylower,{0}일
+ui.dialog.claimed,청구 완료
+ui.dialog.claim,청구
+ui.dialog.start,시작
+ui.dialog.today,오늘
+ui.dialog.rateus,평가하기!
+ui.dialog.likeourgame,이 게임을 좋아하세요?
+ui.dialog.ratebutton,평가!
+ui.dialog.subscribe.desc,구독하여 무료 코인 받기
+ui.dialog.liketoget.desc,{0} 무료 특별 {1}%tag_line%보상을 받고 싶어요!
+ui.dialog.liketoget.button,좋아함
+ui.dialog.social.header,무료 코인!
+ui.dialog.subscribe.button,구독
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,개인 정보 보호 정책 
+ui.subscription.terms,이용 약관
+ui.dialog.restore,구매를 복원
+ui.dialog.restore.info,구매 항목이 복원되었습니다
+ui.dialog.restore.button,복원
+
+
+ui.prestige.resetprogress,리셋 진행 중%tag_line%
+ui.prestige.earngems,보석 얻기
+ui.prestige.reset,리셋
+ui.prestige.progresspreseted,리셋 진행 중!
+ui.prestige.desc,보석을 얻기 위해 모든 레벨"," 무기"," 업그레이드와 코인을 희생할 것인가요?
+ui.skin.ninja,닌자
+ui.skin.shark,샤크
+ui.skin.catman,캣맨
+ui.skin.gorsky,고스키
+ui.skin.jason,제이슨
+ui.skin.50,50
+
+ui.skin.ability.coins,모든 캐릭터의 피냐타에서 {0}골드
+ui.skin.ability.coinsobstacle,모든 캐릭터의 장애물에서 {0} 골드
+ui.skin.ability.obstacledamage,모든 캐릭터의 장애물에서 {0} 데미지
+ui.skin.ability.crit,모든 캐릭터의 {0} 크리티컬 히트 찬스
+ui.skin.ability.upgradeprice,모든 캐릭터의 {0} 무기 업그레이드 비용
+ui.skin.ability.doubleshot,모든 캐릭터의 모든 {0}샷을 두 배로
+ui.prestige.upgrade,업그레이드
+ui.prestige.lock,레벨 {0}에 도달하여%tag_line%
+ui.prestige.lock2,리셋 잠금해제
+
+ui.settings.cloud_login,로그인
+ui.settings.cloud_save_progress,하여 진행 상황을 저장합니다
+ui.settings.cloud_loggedIn,로그인됨
+ui.cloud_load.header,동기화
+ui.cloud_load.desc,최상의 클라우드 저장 옵션을 발견했습니다!%tag_line%클라우드에서 진행 상황을 로드하시겠습니까?
+ui.cloud_save.header,경고
+ui.cloud_save.desc,클라우드 데이터가 손실됩니다.%tag_line%현재 진행 상황을 클라우드에 저장하시겠습니까?
+
+ui.dialog.videocoins.header,코인을 받으세요!
+ui.dialog.videocoins.description,영상을 보고 코인을 받으세요
+
+ui.dialog.x2damage.header,공격 속도 두 배!
+ui.dialog.x2damage.description,영상을 보고 1분 동안 2배 공격 속도를 받으세요!
+
+ui.dialog.videogems.header,보석을 받으세요!
+ui.dialog.videogems.description,영상을 보고 보석 5개를 받으세요
+
+ui.dialog.watchfordouble,영상을 보고 3분 동안 2배 코인을 받으세요!
+
+ui.dialog.you_won,승리!
+
+yes,예
+no,아니요

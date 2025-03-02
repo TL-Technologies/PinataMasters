@@ -1,0 +1,21 @@
+{
+    "name": "Modules.AppsFlyer.Editor",
+    "references": [
+        "Modules.AppsFlyer",
+        "Modules.General",
+        "Modules.General.Editor",
+        "Modules.Hive",
+        "Modules.Hive.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

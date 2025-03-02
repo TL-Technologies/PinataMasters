@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: AWP
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: AWP
+  Price: 4.68e+12
+  Sprite: {fileID: 21300000, guid: eae74f07e6ed0481188389687d6441a4, type: 3}
+  Mask: {fileID: 21300000, guid: cb81ae68ff0ac44f9908e4b34f9d6b3f, type: 3}
+  UnlockEffect: {fileID: 198942095039502160, guid: 5cbc5a8e151c74b4493444eb8e72cc84,
+    type: 3}
+  AmmoBase: 63
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 1.11e+9
+  DamageBase: 5340000
+  DamageUpgrade: 84800
+  DamageUpgradePrice: 1e+9
+  CoinsBase: 9
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 338f05b1aebb1412e8a5701708c210b1, type: 3}
+    Aim: 2
+    PrefabShell: {fileID: 114482272608168634, guid: 3ffaea20aa05e4039a2130940626022c,
+      type: 3}
+    TimeReload: 0.2
+    SizeMagazine: 1
+    RateOfFire: 0.001
+    DoubleShootDelay: 0.1
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 8300000, guid: ab948c296186142ce8d8dc29370f481f, type: 3}
+    ShotClipVolume: 1
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

@@ -1,0 +1,16 @@
+{
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "name": "Modules.DOTween",
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "optionalUnityReferences": [],
+    "references": [
+        "Modules.General",
+        "Unity.TextMeshPro",
+        "Modules.Legacy"
+    ],
+    "precompiledReferences": []
+}

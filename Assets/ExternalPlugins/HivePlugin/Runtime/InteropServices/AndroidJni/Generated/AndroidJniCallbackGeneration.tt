@@ -1,0 +1,71 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ include file="ClassGenerationData.ttinclude" once="true"#>
+using System;
+using UnityEngine;
+
+
+// AUTO-GENERATED FILE. DO NOT MODIFY.
+namespace Modules.Hive.InteropServices.AndroidJni
+{
+<#
+    ClassGenerationData[] dataSet =
+    {
+        new ClassGenerationData("Boolean", "bool"),
+        new ClassGenerationData("Int32", "int"),
+        new ClassGenerationData("String", "string"),
+    };
+
+    foreach (ClassGenerationData data in dataSet)
+    {
+        string paramTypes = data.GetGenericParamTypes();
+        string argumentsSignature = data.GetArgumentsSignature();
+        string argumentNames = data.GetArgumentNames();
+#>
+    #region <#= data.CallbackWrapperTypeName #>
+
+    public abstract class <#= data.CallbackWrapperBaseTypeName #> : AndroidJavaProxy
+    {
+        public <#= data.CallbackWrapperBaseTypeName #>(string interfaceName) : base(interfaceName) { }
+
+
+        /// <summary>
+        /// This method reflects the same method in Java code and is intended to handle an event from there.
+        /// </summary>
+        protected abstract void onComplete(<#= argumentsSignature #>);
+    }
+
+
+    public sealed class <#= data.CallbackWrapperTypeName #> : <#= data.CallbackWrapperBaseTypeName #>
+    {
+        private readonly Action<<#= paramTypes #>> callback;
+
+
+        public <#= data.CallbackWrapperTypeName #>(Action<<#= paramTypes #>> callback) : base("<#= data.GetDefaultJavaInterfaceName() #>")
+        {
+            this.callback = callback;
+        }
+
+
+        public <#= data.CallbackWrapperTypeName #>(string interfaceName, Action<<#= paramTypes #>> callback) : base(interfaceName)
+        {
+            this.callback = callback;
+        }
+
+
+        /// <inheritdoc/>
+        protected override void onComplete(<#= argumentsSignature #>)
+        {
+            callback?.Invoke(<#= argumentNames #>);
+        }
+    }
+
+    #endregion
+
+
+
+<#
+    }
+#>
+}

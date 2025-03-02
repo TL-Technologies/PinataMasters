@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7c94dd1d03446b0a5e6652cbe3f512, type: 3}
+  m_Name: Offers_settings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  ingameOffers:
+  - {fileID: 11400000, guid: 7d6bbd3ae818945ed97d710a1ce9986e, type: 2}
+  - {fileID: 11400000, guid: 67ca9fe6521584d998f9dc427233fb9c, type: 2}
+  - {fileID: 11400000, guid: 1ab2387ff0c0c413081651006480a7b8, type: 2}
+  - {fileID: 11400000, guid: c661af8c8d76d40169b03e9c3a469024, type: 2}
+  - {fileID: 11400000, guid: cece2f65270d14e0495857b838c8f44f, type: 2}
+  animationSettings: {fileID: 11400000, guid: 514a0874fc37c44e794d4e620f059ec3, type: 2}

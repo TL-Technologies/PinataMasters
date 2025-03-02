@@ -1,0 +1,116 @@
+ui.dialog.you_earned,你赚到了！
+ui.dialog.collect_double,2 倍收集
+ui.dialog.collect,收集
+ui.dialog.power,火力
+ui.dialog.ammo,弹药
+ui.dialog.tap_to_start,点击开始
+ui.dialog.offline_reward,+{0}% 离线奖励
+ui.dialog.speed,+{0}% 速度
+ui.dialog.bonus_coins,+{0}% 奖励游戏币
+ui.dialog.unlock,解锁
+ui.dialog.choose,选择
+ui.settings.terms_and_privacy,条款与隐私
+ui.settings.soundon,声音：打开
+ui.settings.vibrationon,振动：打开
+ui.settings.soundoff,声音：关闭
+ui.settings.vibrationoff,振动：关闭
+ui.settings.musicon,音乐：打开
+ui.settings.musicoff,音乐：关闭
+ui.settings.header,设置
+ui.removeads,去除所有广告
+ui.dialog.doublecoins,赚取 2 倍游戏币
+ui.dialog.doubleincome,2 倍奖励
+ui.popup.auto.renewable.subscription.start,开始免费体验
+ui.popup.auto.renewable.subscription.button.description,免费试玩 3 天，之后每周 {0}
+ui.popup.auto.renewable.subscription.week,{0}    个周
+ui.popup.auto.renewable.subscription.month,{0}    月
+ui.dailygift.header,每日礼品
+ui.offlineearnings.header,获取离线收益！
+ui.dialog.noads.oops,糟糕！
+ui.dialog.noads.adsproblem,无广告
+ui.dialog.nointernet,无互联网
+ui.dialog.language,简体中文
+ui.dialog.doubleloot,让你的游戏币战利品加倍！
+localnotification.dailygift,每日礼品等你领取！拿着吧！
+localnotification.offlinereward,现在可以获得最大数额的离线游戏币！
+ui.dialog.somethingwrong,情况不妙
+ui.dialog.ok,确定
+ui.dialog.needcoins,需要游戏币？
+ui.dialog.bestvalue,物超所值
+ui.dialog.mostpopular,最受欢迎
+ui.dialog.free,+{0} 免费
+ui.dialog.buy,购买
+ui.dialog.get,获得
+ui.dialog.dayupper,第 {0} 天
+ui.dialog.daylower,第 {0} 天
+ui.dialog.claimed,已领取
+ui.dialog.claim,领取
+ui.dialog.start,开始
+ui.dialog.today,今天
+ui.dialog.rateus,对我们进行评分！
+ui.dialog.likeourgame,喜欢我们推出的游戏？
+ui.dialog.ratebutton,评分！
+ui.dialog.liketoget.desc,{0} 想要免费获 {1}%tag_line%取特殊的奖励！
+ui.dialog.liketoget.button,点赞
+ui.dialog.social.header,免费的硬币！
+ui.dialog.subscribe.button,订阅
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,隐私政策
+ui.subscription.terms,使用条款
+ui.dialog.restore,恢复购买
+ui.dialog.restore.info,购买已恢复
+ui.dialog.restore.button,恢复
+
+
+ui.prestige.resetprogress,重设进展%tag_line%
+ui.prestige.earngems,赢得更多宝石
+ui.prestige.reset,重设
+ui.prestige.progresspreseted,重设进展！
+ui.prestige.desc,舍弃所有的关卡、武器、 升级和金币，赢得更多宝石？
+ui.skin.ninja,忍者
+ui.skin.shark,鲨鱼
+ui.skin.catman,猫人
+ui.skin.gorsky,戈尔斯基
+ui.skin.jason,杰森
+ui.skin.50,50
+
+
+ui.skin.ability.coins,粉碎可爱的 pinatas，获取 {0} 他们所拥有的金币，适用于所有角色
+ui.skin.ability.coinsobstacle,粉碎障碍物，获取 {0} 他们所拥有的金币，适用于所有角色
+ui.skin.ability.obstacledamage,对障碍物造成 {0} 的破坏力，适用于所有角色
+ui.skin.ability.crit,所有角色都有 {0} 的暴击率
+ui.skin.ability.upgradeprice,{0} 的武器升级费用， 适用于所有角色
+ui.skin.ability.doubleshot,所有角色每 {0} 射击都会造成两次连击
+ui.prestige.upgrade,升级
+ui.prestige.lock,闯过第 {0} 关，%tag_line%
+ui.prestige.lock2,解锁重设功能
+
+ui.settings.cloud_login,登录
+ui.settings.cloud_save_progress,以保存进展
+ui.settings.cloud_loggedIn,已登录
+ui.cloud_load.header,同步
+ui.cloud_load.desc,发现最佳的云存储选项！%tag_line%从云端中加载进展？
+ui.cloud_save.header,警示
+ui.cloud_save.desc,云数据将丢失。%tag_line%将当前进展保存到云端？
+
+ui.dialog.videocoins.header,获取金币！
+ui.dialog.videocoins.description,观看视频即可获得金币！
+
+ui.dialog.x2damage.header,让攻击速度翻倍！
+ui.dialog.x2damage.description,观看视频，1分钟即可让攻击速度翻倍！
+
+ui.dialog.videogems.header,获取宝石！
+ui.dialog.videogems.description,观看视频即可获得5颗宝石！
+
+ui.dialog.watchfordouble,观看视频，3分钟即可获得双倍金币！
+
+ui.dialog.you_won,你赢了！
+
+ui.dialog.subscribe.desc,在Instagram上关注我们并获得免费金币
+
+yes,是
+no,否

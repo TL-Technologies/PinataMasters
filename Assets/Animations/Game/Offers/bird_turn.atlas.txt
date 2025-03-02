@@ -1,0 +1,97 @@
+
+bird_turn.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beak_1
+  rotate: false
+  xy: 382, 211
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+beak_2
+  rotate: true
+  xy: 71, 14
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+bird_body_1
+  rotate: false
+  xy: 2, 123
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+bird_body_2
+  rotate: false
+  xy: 135, 128
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+bird_head
+  rotate: false
+  xy: 2, 40
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 89, 80
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 297, 182
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+eyelib
+  rotate: false
+  xy: 257, 139
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tail_1
+  rotate: false
+  xy: 297, 233
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+tail_2
+  rotate: false
+  xy: 297, 211
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+tail_3
+  rotate: false
+  xy: 382, 234
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 257, 182
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: true
+  xy: 2, 2
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+buddy.png
+size: 244,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 186
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+boots_left
+  rotate: false
+  xy: 2, 94
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+boots_right
+  rotate: false
+  xy: 2, 2
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+cheek_left
+  rotate: false
+  xy: 69, 5
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+cheek_right
+  rotate: false
+  xy: 143, 119
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 184, 234
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+forearm_left
+  rotate: true
+  xy: 143, 92
+  size: 25, 85
+  orig: 25, 85
+  offset: 0, 0
+  index: -1
+forearm_right
+  rotate: false
+  xy: 216, 147
+  size: 26, 85
+  orig: 26, 85
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 138, 30
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 337
+  size: 167, 188
+  orig: 167, 188
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: true
+  xy: 138, 2
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 115, 97
+  size: 26, 87
+  orig: 26, 87
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 142, 240
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 184, 279
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 69, 75
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+neck_rope
+  rotate: false
+  xy: 142, 189
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+rope_shadow
+  rotate: false
+  xy: 193, 59
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 171, 362
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+tassel
+  rotate: false
+  xy: 171, 436
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1

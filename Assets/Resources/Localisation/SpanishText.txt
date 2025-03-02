@@ -1,0 +1,116 @@
+ui.dialog.you_earned,¡TIENES BENEFICIOS!
+ui.dialog.collect_double,RECOGER X2
+ui.dialog.collect,RECOGER
+ui.dialog.power,POTENCIA
+ui.dialog.ammo,MUNICIÓN
+ui.dialog.tap_to_start,PULSA PARA EMPEZAR
+ui.dialog.offline_reward,+{0}% BOTÍN SIN CONEXIÓN
+ui.dialog.speed,+{0}% VELOCIDAD
+ui.dialog.bonus_coins,+{0}% MONEDAS EXTRA
+ui.dialog.unlock,DESBLOQUEAR
+ui.dialog.choose,ELEGIR
+ui.settings.terms_and_privacy,TÉRMINOS Y PRIVACIDAD
+ui.settings.soundon,SONIDO: ACTIVADO
+ui.settings.vibrationon,VIBRACIÓN: ACTIVADA
+ui.settings.soundoff,SONIDO: DESACTIVADO
+ui.settings.vibrationoff,VIBRACIÓN: DESACTIVADA
+ui.settings.musicon,MÚSICA: ACTIVADA
+ui.settings.musicoff,MÚSICA: DESACTIVADA
+ui.settings.header,AJUSTES
+ui.removeads,Eliminar TODOS LOS ANUNCIOS
+ui.dialog.doublecoins,conseguir monedas X2
+ui.dialog.doubleincome,botín X2
+ui.popup.auto.renewable.subscription.start,INICIAR PRUEBA GRATUITA
+ui.popup.auto.renewable.subscription.button.description, Gratis durante 3 días; luego"," {0} a la semana
+ui.popup.auto.renewable.subscription.week,1 SEMANA    {0}
+ui.popup.auto.renewable.subscription.month,1 MES    {0}
+ui.dailygift.header,REGALO DIARIO
+ui.offlineearnings.header,¡CONSIGUE BENEFICIOS SIN CONEXIÓN!
+ui.dialog.noads.oops,¡UY!
+ui.dialog.noads.adsproblem,SIN ANUNCIOS
+ui.dialog.nointernet,SIN CONEXIÓN A INTERNET
+ui.dialog.language,Español
+ui.dialog.doubleloot,¡Duplica las monedas que consigas!
+localnotification.dailygift,Un regalo diario te está esperando. ¡Recógelo!
+localnotification.offlinereward,¡Ya está disponible la cantidad máxima de monedas por jugar sin conexión!
+ui.dialog.somethingwrong,HA HABIDO UN ERROR
+ui.dialog.ok,ACEPTAR
+ui.dialog.needcoins,¿NECESITAS MONEDAS?
+ui.dialog.bestvalue,LA MEJOR OFERTA
+ui.dialog.mostpopular,LO MÁS POPULAR
+ui.dialog.free,+{0} gratis
+ui.dialog.buy,COMPRAR
+ui.dialog.get,CONSIGUE
+ui.dialog.dayupper,DÍA {0}
+ui.dialog.daylower,Día {0}
+ui.dialog.claimed,Recogidas
+ui.dialog.claim,Recoger
+ui.dialog.start,EMPEZAR
+ui.dialog.today,hoy
+ui.dialog.rateus,¡CALIFÍCANOS!
+ui.dialog.likeourgame,¿Te gusta nuestro juego?
+ui.dialog.ratebutton,¡CALIFÍCALO!
+ui.dialog.liketoget.desc,{0} ¡Pulsa en "Me gusta" {1}%tag_line% para recibir una recompensa especial GRATIS!
+ui.dialog.liketoget.button,ME GUSTA
+ui.dialog.social.header,¡MONEDAS GRATIS!
+ui.dialog.subscribe.button,SUSCRIBIRSE
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Política de Privacidad
+ui.subscription.terms,Condiciones de Uso
+ui.dialog.restore,Restaurar compras
+ui.dialog.restore.info,Tus compras se han restaurado
+ui.dialog.restore.button,RESTAURAR
+
+
+ui.prestige.resetprogress,Restablece tu progreso%tag_line%
+ui.prestige.earngems,para conseguir gemas
+ui.prestige.reset,RESTABLECER
+ui.prestige.progresspreseted,¡PROGRESO RESTABLECIDO!
+ui.prestige.desc,¿Sacrificar todos los niveles"," armas"," mejoras y monedas para conseguir gemas?
+ui.skin.ninja,NINJA
+ui.skin.shark,TIBURÓN
+ui.skin.catman,HOMBRE GATO
+ui.skin.gorsky,GORSKY
+ui.skin.jason,JASON
+ui.skin.50,50
+
+
+ui.skin.ability.coins,Oro de las piñatas {0} para todos los personajes
+ui.skin.ability.coinsobstacle,{0} de oro de los obstáculos para todos los personajes
+ui.skin.ability.obstacledamage,Daño a los obstáculos {0} para todos los personajes
+ui.skin.ability.crit,{0} de probabilidades de asestar un golpe crítico para todos los personajes
+ui.skin.ability.upgradeprice,{0} del coste de mejorar un arma para todos los personajes
+ui.skin.ability.doubleshot,Disparo doble cada {0} disparos para todos los personajes
+ui.prestige.upgrade,Mejorar
+ui.prestige.lock,Alcanza el nivel {0}%tag_line%
+ui.prestige.lock2,para desbloquear la opción de restablecimiento
+
+ui.settings.cloud_login,INICIA SESIÓN
+ui.settings.cloud_save_progress,para guardar tu progreso
+ui.settings.cloud_loggedIn,SESIÓN INICIADA
+ui.cloud_load.header,SINCRONIZACIÓN
+ui.cloud_load.desc,¡Has encontrado la mejor opción de guardado en la nube!%tag_line%¿Cargar tu progreso desde la nube?
+ui.cloud_save.header,ADVERTENCIA
+ui.cloud_save.desc,Se perderán los datos guardados en la nube.%tag_line%¿Guardar tu progreso actual en la nube?
+
+ui.dialog.videocoins.header,¡OBTÉN ALGUNAS MONEDAS!
+ui.dialog.videocoins.description,Mira el video y obtén algunas monedas
+
+ui.dialog.x2damage.header,¡DUPLICA TU VELOCIDAD DE ATAQUE!
+ui.dialog.x2damage.description,¡Mira el video y obtén el doble de velocidad de ataque durante 1 minuto!
+
+ui.dialog.videogems.header,¡OBTÉN ALGUNAS GEMAS!
+ui.dialog.videogems.description,Mira el video y obtén 5 gemas
+
+ui.dialog.watchfordouble,¡Mira el video y obtén monedas dobles durante 3 minutos!
+
+ui.dialog.you_won,¡GANASTE!
+
+ui.dialog.subscribe.desc,Síguenos en Instagram y obtén monedas GRATIS
+
+yes,SÍ
+no,NO

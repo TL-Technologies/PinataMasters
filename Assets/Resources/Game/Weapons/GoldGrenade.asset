@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: GoldGrenade
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: GoldGrenade
+  Price: 1.26e+12
+  Sprite: {fileID: 21300000, guid: d3333b42800334d6f9ab075b42d2b717, type: 3}
+  Mask: {fileID: 21300000, guid: f68a6fc3672754f30aab89c7bab97957, type: 3}
+  UnlockEffect: {fileID: 198454603963975378, guid: 530dbc4ab06f84f2bad01284eafa850a,
+    type: 3}
+  AmmoBase: 60
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 399000000
+  DamageBase: 2810000
+  DamageUpgrade: 46800
+  DamageUpgradePrice: 361000000
+  CoinsBase: 9
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 257b0ca8686694c398a81ee5319ea30e, type: 3}
+    Aim: 0
+    PrefabShell: {fileID: 114909252761359418, guid: 49ffb9eafbd354efc9866e5d59b426aa,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 1
+    RateOfFire: 0
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 8300000, guid: c1a6b65fff9974774aa1b85a9b0421e1, type: 3}
+    ShotClipVolume: 1.5
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

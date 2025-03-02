@@ -1,0 +1,20 @@
+
+cosmonaut_legs.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shin
+  rotate: false
+  xy: 34, 12
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: false
+  xy: 2, 2
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1

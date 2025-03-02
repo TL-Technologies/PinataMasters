@@ -1,0 +1,64 @@
+<#@ import namespace="System.Text" #><#+ 
+    public class ClassGenerationData
+    {
+        public string TypeSuffix { get; }
+        public string[] ParamsTypeName { get; }
+        public string CallbackTypeName { get { return TypeSuffix + "Callback"; } }
+        public string CallbackWrapperTypeName { get { return TypeSuffix + "CallbackWrapper"; } }
+
+        public ClassGenerationData(string typeSuffix, params string[] paramsTypeName)
+        {
+            TypeSuffix = typeSuffix;
+            ParamsTypeName = paramsTypeName;
+        }
+        
+
+        public string GetGenericParamTypes() 
+        { 
+            return string.Join(", ", ParamsTypeName);
+        }
+        
+
+        public string GetArgumentsSignature() 
+        { 
+            StringBuilder rs = new StringBuilder();
+            for (int i = 0; i < ParamsTypeName.Length; i++)
+            {
+                rs.AppendFormat("{0} arg{1}, ", ParamsTypeName[i], i + 1);
+            }
+
+            if (rs.Length > 0)
+            {
+                rs.Length -= 2;
+            }
+
+            return rs.ToString();
+        }
+
+        
+        public string GetArgumentNames() 
+        { 
+            StringBuilder rs = new StringBuilder();
+            for (int i = 0; i < ParamsTypeName.Length; i++)
+            {
+                rs.AppendFormat("arg{0}, ", i + 1);
+            }
+
+            if (rs.Length > 0)
+            {
+                rs.Length -= 2;
+            }
+
+            return rs.ToString();
+        }    
+    }
+
+    
+    public void GenerateEmptyLine(int count)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            Write("\r\n");
+        }
+    }
+#>

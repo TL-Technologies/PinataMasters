@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Link
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shooter
+  - Shells
+  - Pinatas
+  - Coins
+  - NonCollidable
+  - ShellDestroyer
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 1501382401
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Coins
+    uniqueID: 927411203
+    locked: 0
+  - name: Pinata
+    uniqueID: 1982541515
+    locked: 0
+  - name: Shooter
+    uniqueID: 1913553419
+    locked: 0
+  - name: FX_Ingame_back
+    uniqueID: 648252113
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1773629015
+    locked: 0
+  - name: FX_Ingame_front
+    uniqueID: 4196404209
+    locked: 0
+  - name: Foregrounds
+    uniqueID: 1480395685
+    locked: 0
+  - name: X2Offer
+    uniqueID: 4217994859
+    locked: 0
+  - name: UI
+    uniqueID: 3630644331
+    locked: 0
+  - name: FX_UI
+    uniqueID: 1551070045
+    locked: 0
+  - name: Story
+    uniqueID: 409746421
+    locked: 0
+  - name: StoryOver
+    uniqueID: 3630620369
+    locked: 0

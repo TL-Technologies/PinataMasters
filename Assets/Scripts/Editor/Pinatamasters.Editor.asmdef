@@ -1,0 +1,23 @@
+{
+    "name": "Pinatamasters.Editor",
+    "references": [
+        "Modules.General",
+        "Modules.General.Editor",
+        "Pinatamasters",
+        "Modules.General.Editor.Obsolete",
+        "Modules.General.Obsolete",
+        "Modules.Hive",
+        "Modules.Hive.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

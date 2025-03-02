@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: Shotgun
+  Price: 66800
+  Sprite: {fileID: 21300000, guid: cb600f907689e4935a402be9bcb65796, type: 3}
+  Mask: {fileID: 21300000, guid: 70efa2629a75a4db5af9ff203e8a0087, type: 3}
+  UnlockEffect: {fileID: 198613111504700282, guid: fc4ca2f4f9aeb4786be3f788ef0ff1c5,
+    type: 3}
+  AmmoBase: 22
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 1350
+  DamageBase: 665
+  DamageUpgrade: 30
+  DamageUpgradePrice: 1220
+  CoinsBase: 4
+  CoinsUpgrate: 1
+  CanAutoShoot: 0
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: f1a64d46e6d55455aa19c26958ded14c, type: 3}
+    Aim: 2
+    PrefabShell: {fileID: 114168780292763744, guid: 5263ea72574e64fbcad0360e86500354,
+      type: 3}
+    TimeReload: 0.25
+    SizeMagazine: 7
+    RateOfFire: 0.004
+    DoubleShootDelay: 0.1
+    HasSpray: 1
+    Spray: 9
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 103
+    ShellVibrationType: 0
+    ShotClip: {fileID: 0}
+    ShotClipVolume: 1
+    MagazineClip: {fileID: 8300000, guid: e27c6933b007f4d3b9841d84dbcda4dc, type: 3}
+    ReloadClip: {fileID: 8300000, guid: 02addea8211f349e9a4d3794c83a776f, type: 3}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

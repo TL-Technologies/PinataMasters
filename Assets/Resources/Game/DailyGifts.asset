@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01c5522df953c40338652ab6e1bf8056, type: 3}
+  m_Name: DailyGifts
+  m_EditorClassIdentifier: 
+  rewardConfig:
+  - Type: 0
+    BackSimple: {fileID: 21300000, guid: 40f33b19cb6d54b8a8d3584e0c3d1952, type: 3}
+    BackToday: {fileID: 21300000, guid: eea0761f59dad4a30b4184795c8c615a, type: 3}
+    CoinsClaimed: {fileID: 21300000, guid: d80f16950c45e4a28b250db519ead135, type: 3}
+    CoinsToday: {fileID: 21300000, guid: 06009095bb75e42dea245ea9a3b40da1, type: 3}
+    CoinsFuture: {fileID: 21300000, guid: 56d1ceeede45b4131b6b9c2d2d12d013, type: 3}
+    BigCoins: {fileID: 21300000, guid: 06009095bb75e42dea245ea9a3b40da1, type: 3}
+  - Type: 1
+    BackSimple: {fileID: 21300000, guid: 40f33b19cb6d54b8a8d3584e0c3d1952, type: 3}
+    BackToday: {fileID: 21300000, guid: eea0761f59dad4a30b4184795c8c615a, type: 3}
+    CoinsClaimed: {fileID: 21300000, guid: 8cedc7a46ea1c4702806f45e3243bb7c, type: 3}
+    CoinsToday: {fileID: 21300000, guid: c3d1c69522d734a14bb0a9d53f419eff, type: 3}
+    CoinsFuture: {fileID: 21300000, guid: f0c2484c66d7444fc8b479d46aee8a14, type: 3}
+    BigCoins: {fileID: 21300000, guid: c3d1c69522d734a14bb0a9d53f419eff, type: 3}
+  - Type: 2
+    BackSimple: {fileID: 21300000, guid: 40f33b19cb6d54b8a8d3584e0c3d1952, type: 3}
+    BackToday: {fileID: 21300000, guid: eea0761f59dad4a30b4184795c8c615a, type: 3}
+    CoinsClaimed: {fileID: 21300000, guid: 0b82af124a8fa4817bd21baacae2b5ae, type: 3}
+    CoinsToday: {fileID: 21300000, guid: 5a7c2293e3589418e93ed415f818552d, type: 3}
+    CoinsFuture: {fileID: 21300000, guid: 5f264716aeab346ec8bc7eec3ecf37e9, type: 3}
+    BigCoins: {fileID: 21300000, guid: 5a7c2293e3589418e93ed415f818552d, type: 3}
+  rewards:
+  - Multiplier: 1
+    Type: 0
+  - Multiplier: 1.2
+    Type: 0
+  - Multiplier: 1.5
+    Type: 0
+  - Multiplier: 1.6
+    Type: 0
+  - Multiplier: 1.7
+    Type: 0
+  - Multiplier: 1.8
+    Type: 1
+  - Multiplier: 2
+    Type: 1
+  - Multiplier: 2.1
+    Type: 1
+  - Multiplier: 2.2
+    Type: 1
+  - Multiplier: 2.3
+    Type: 2
+  - Multiplier: 2.4
+    Type: 2
+  - Multiplier: 2.5
+    Type: 2
+  - Multiplier: 2.6
+    Type: 2
+  - Multiplier: 2.7
+    Type: 2
+  - Multiplier: 2.8
+    Type: 2
+  - Multiplier: 3
+    Type: 2

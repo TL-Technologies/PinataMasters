@@ -1,0 +1,18 @@
+{
+    "name": "Modules.Advertising.Editor",
+    "references": [
+        "GUID:58d4668e32aa143a1b9905f94a515b0f",
+        "GUID:6f5f722568ac84204832bac733c64bce"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

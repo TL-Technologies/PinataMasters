@@ -1,0 +1,21 @@
+{
+    "name": "Modules.Max.Editor",
+    "references": [
+        "GUID:a10a05a8449c42519fd80f2b8b580de3",
+        "GUID:58d4668e32aa143a1b9905f94a515b0f",
+        "GUID:923dc2a4cc844653875122cb83061d8c",
+        "GUID:ff7faa2871224164c8612bf2cd4495c7",
+        "GUID:b7945be0daf3c3742a8fc954d9de9ba4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

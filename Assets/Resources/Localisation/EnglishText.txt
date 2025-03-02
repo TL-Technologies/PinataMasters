@@ -1,0 +1,117 @@
+ui.dialog.you_won,YOU WON!
+ui.dialog.collect_double,COLLECT X2
+ui.dialog.collect,COLLECT
+ui.dialog.power,POWER
+ui.dialog.ammo,AMMO
+ui.dialog.tap_to_start,TAP TO START 
+ui.dialog.offline_reward,+{0}% OFFLINE REWARD
+ui.dialog.speed,+{0}% SPEED
+ui.dialog.bonus_coins,+{0}% BONUS COINS
+ui.dialog.unlock,UNLOCK
+ui.dialog.choose,CHOOSE
+ui.settings.terms_and_privacy,TERMS AND PRIVACY
+ui.settings.soundon,SOUND:ON
+ui.settings.vibrationon,VIBRATION:ON
+ui.settings.soundoff,SOUND:OFF
+ui.settings.vibrationoff,VIBRATION:OFF
+ui.settings.musicon,MUSIC:ON
+ui.settings.musicoff,MUSIC:OFF
+ui.settings.header,SETTINGS
+ui.removeads,Remove ADS
+ui.dialog.doublecoins,Earn Х2 coins
+ui.dialog.doubleincome,Х2 more reward
+
+ui.popup.auto.renewable.subscription.start,START FREE TRIAL
+ui.popup.auto.renewable.subscription.button.description,3 days free"," then  {0} per week
+ui.popup.auto.renewable.subscription.week,1 WEEK    {0}
+ui.popup.auto.renewable.subscription.month,1 MONTH    {0}
+
+ui.dailygift.header,DAILY GIFT
+ui.offlineearnings.header,GET OFFLINE EARNINGS!
+ui.dialog.noads.oops,OOPS!
+ui.dialog.noads.adsproblem,NO ADS
+ui.dialog.nointernet,NO INTERNET
+
+ui.dialog.language,English
+
+ui.dialog.watchfordouble,Watch a video and get x2%tag_line%coins for 3 minutes!
+ui.dialog.doubleloot,Double your coins loot!
+ui.dialog.videocoins.header,GET SOME COINS!
+ui.dialog.videocoins.description,Watch a video and%tag_line%get some coins
+ui.dialog.videogems.header,GET SOME GEMS!
+ui.dialog.videogems.description,Watch a video and get 5 gems
+ui.dialog.x2damage.header,DOUBLE YOUR ATTACK SPEED!
+ui.dialog.x2damage.description,Watch a video and get X2%tag_line%attack speed for 1 minute!
+
+localnotification.dailygift,A daily gift is waiting for you! Just take it!
+localnotification.offlinereward,Max amount of coins for being offline is now available!
+
+ui.dialog.somethingwrong,SOMETHING WENT WRONG
+ui.dialog.ok,OK
+ui.dialog.needcoins,NEED COINS?
+ui.dialog.bestvalue,BEST%tag_line%VALUE
+ui.dialog.mostpopular,MOST%tag_line%POPULAR
+ui.dialog.free,+{0} free
+ui.dialog.buy,BUY
+ui.dialog.get,GET
+ui.dialog.dayupper,DAY {0}
+ui.dialog.daylower,Day {0}
+ui.dialog.claimed,Claimed
+ui.dialog.claim,CLAIM
+ui.dialog.start,START
+ui.dialog.today,today
+
+ui.dialog.rateus,RATE US!
+ui.dialog.likeourgame,Like our game?
+ui.dialog.ratebutton,RATE
+
+ui.dialog.subscribe.desc,Follow us on Instagram%tag_line%to get FREE coins
+ui.dialog.liketoget.desc,{0} Like to get {1}%tag_line%FREE special reward!
+ui.dialog.liketoget.button,LIKE
+ui.dialog.social.header,FREE COINS!
+ui.dialog.subscribe.button,FOLLOW
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Privacy Policy
+ui.subscription.terms,Terms of Use
+
+ui.dialog.restore,RESTORE PURCHASES
+ui.dialog.restore.info,Your purchases are restored
+ui.dialog.restore.button,RESTORE
+
+ui.prestige.resetprogress,Reset progress%tag_line%
+ui.prestige.earngems,to earn gems
+ui.prestige.reset,RESET
+ui.prestige.progresspreseted,PROGRESS RESET!
+ui.prestige.desc,Sacrifice all levels"," weapons"," upgrades and coins to earn gems?
+ui.skin.ninja,NINJA
+ui.skin.shark,SHARK
+ui.skin.catman,CATMAN
+ui.skin.gorsky,GORSKY
+ui.skin.jason,JASON
+ui.skin.50,50
+
+ui.skin.ability.coins,{0} gold from pinatas for all characters
+ui.skin.ability.coinsobstacle,{0} gold from obstacles for all characters
+ui.skin.ability.obstacledamage,{0} damage to obstacles for all characters
+ui.skin.ability.crit,{0} critical hit chance for all characters
+ui.skin.ability.upgradeprice,{0} weapon upgrade cost for all characters
+ui.skin.ability.doubleshot,Double shot every {0} shots for all characters
+ui.prestige.upgrade,UPGRADE
+ui.prestige.lock,Reach level {0}%tag_line%
+ui.prestige.lock2,to unlock reset
+
+ui.settings.cloud_login,LOG IN
+ui.settings.cloud_save_progress,to save progress
+ui.settings.cloud_loggedIn,LOGGED IN
+ui.cloud_load.header,SYNCHRONIZATION
+ui.cloud_load.desc,Best cloud save option found!%tag_line%Load progress from the cloud?
+ui.cloud_save.header,WARNING
+ui.cloud_save.desc,Cloud data will be lost.%tag_line%Save current progress to the cloud?
+
+yes,YES
+no,NO
+

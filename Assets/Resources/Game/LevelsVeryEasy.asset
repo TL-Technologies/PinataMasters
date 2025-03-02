@@ -1,0 +1,4298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6553dfdb940e4ebfa8d4fa809e7c726, type: 3}
+  m_Name: LevelsVeryEasy
+  m_EditorClassIdentifier: 
+  configs:
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 300
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 350
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 600
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 900
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1400
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: b85206268e73b4a69a88db5fe394e728
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 1800
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1980
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: f0b9854edcca24eb48c5f86bf4bd3f29
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2178
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2396
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 2635
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 3294
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 3624
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: bc7add05b4e61490aae60371bfa7ff72
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 3986
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 4385
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 4823
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2611b81bd45a54002b6abdcd557217d9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 6029
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 6632
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 7295
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 8024
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 8827
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: deb7cf46240dc4fe2a20ed5ef1c29c58
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 11034
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 12137
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 13351
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 14686
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 16154
+    WinCoinsPersentHealthPinata: 2.5
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 0
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 20193
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 10
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 22212
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 78f4da9b383634dfb81b82346d319f61
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 11
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 24433
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 12
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 26877
+    WinCoinsPersentHealthPinata: 1.5
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9bd770a1021174b41a3b92821e6dc456
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 13
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 29564
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 14
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 36955
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 20
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 40651
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 21
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 44716
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 22
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 49187
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: f0b9854edcca24eb48c5f86bf4bd3f29
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 23
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 54106
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 24
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 67633
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 35
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 74396
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0eb0465a46c4248d0a988a1b01f774b8
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 36
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 81836
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 37
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 90019
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 38
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 99021
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 39
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 123776
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 55
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 136154
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 56
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 149769
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 57
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 164746
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 58
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 181221
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 59
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 226526
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 80
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 249179
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 81
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 274097
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 82
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 301506
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 83
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 331657
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 84
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 414571
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 115
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 456028
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 116
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 501631
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 117
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 551794
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 118
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 606974
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 119
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 758717
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 155
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 834589
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 6887c0a885a4e4993838f6b9790ea412
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 156
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 918048
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 157
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1009853
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 158
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1110838
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 95e330409c956424db0c9f428cd4681d
+    GemsForReset: 159
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1388548
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 200
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1527402
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 201
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1680143
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 202
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1848157
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 203
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 2032973
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: d0823d2cd962443cbb441d1e65402e3d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 204
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2541216
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 250
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 2795337
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 251
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 3074871
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 252
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 3382358
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 253
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 3720594
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 254
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 4650743
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 300
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 5115817
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 301
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 5627399
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 302
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 6190138
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 303
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 6809152
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 304
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 8511440
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 360
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 9362584
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 361
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 10298843
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 3e33aaf731c4342339465a54a857f7dd
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 362
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 11328727
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 363
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 12461600
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 364
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 15577000
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 425
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 17134700
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 426
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 18848170
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b323590c0bd4346a4830b8cca2f39792
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 427
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 20732988
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 428
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 22806284
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 429
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 28507856
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 495
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 31358642
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 496
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 34494504
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 497
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 37943956
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 498
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 41738350
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 499
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 52172940
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 570
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 57390236
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 571
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 63129256
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 572
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 69442184
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 573
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 76386400
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 574
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 95483000
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 650
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 105031304
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 651
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 115534430
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 652
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 127087880
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 653
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 139796670
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 84b70b9ad551f4b64bd0a3be1f39c04e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 654
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 174745820
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 735
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 192220420
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 736
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 211442460
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 737
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 232586700
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 738
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 255845380
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 739
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 319806720
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 825
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 351787400
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: bc7add05b4e61490aae60371bfa7ff72
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 826
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 386966100
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 827
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 425662750
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 828
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 468229020
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2611b81bd45a54002b6abdcd557217d9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 829
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 585286300
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 920
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 643814900
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 921
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 708196350
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 922
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 779016000
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 923
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 856917600
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: deb7cf46240dc4fe2a20ed5ef1c29c58
+    GemsForReset: 924
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.071147e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1020
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1.1782618e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1021
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 1.2960879e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1022
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 1.4256966e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1023
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.5682664e+9
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1024
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1.9603329e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1125
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 2.1563663e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 78f4da9b383634dfb81b82346d319f61
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1126
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2.3720028e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1127
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2.6092032e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9bd770a1021174b41a3b92821e6dc456
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1128
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 2.8701235e+9
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 1129
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 3.5876544e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1235
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 3.9464197e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1236
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 4.3410616e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1237
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 4.775168e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: f0b9854edcca24eb48c5f86bf4bd3f29
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1238
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 5.252685e+9
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1239
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 6.5658557e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1350
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 7.2224415e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0eb0465a46c4248d0a988a1b01f774b8
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1351
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 7.9446856e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1352
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 8.739154e+9
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1353
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 9.613069e+9
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1354
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.2016337e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1470
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.3217971e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1471
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1.4539768e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1472
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1.5993744e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1473
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1.7593119e+10
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 1474
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2.19914e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1595
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 2.4190538e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1596
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 2.6609592e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1597
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 2.9270553e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1598
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 3.2197607e+10
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1599
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 4.024701e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1725
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 4.427171e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1726
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 4.869888e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1727
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 5.356877e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1728
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 5.8925646e+10
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1729
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 7.365706e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1860
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 8.102276e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 6887c0a885a4e4993838f6b9790ea412
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1861
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 8.912504e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1862
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 9.803754e+10
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 1863
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1.078413e+11
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 95e330409c956424db0c9f428cd4681d
+    GemsForReset: 1864
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 1.3480162e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2000
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 1.4828179e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2001
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.6310996e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2002
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.7942095e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2003
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 1.9736306e+11
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: d0823d2cd962443cbb441d1e65402e3d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2004
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 2.4670382e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 2145
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2.713742e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2146
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 2.9851163e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2147
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 3.283628e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2148
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 3.6119904e+11
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2149
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 4.5149884e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2295
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 4.966487e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2296
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 5.4631357e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2297
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 6.0094493e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2298
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 6.610394e+11
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 2299
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 8.2629925e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2450
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 9.089292e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2451
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 9.998221e+11
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 3e33aaf731c4342339465a54a857f7dd
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2452
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.0998043e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2453
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.2097847e+12
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2454
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1.512231e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2610
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1.663454e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2611
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.8297995e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b323590c0bd4346a4830b8cca2f39792
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2612
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2.0127794e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 2613
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 2.2140575e+12
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2614
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 2.7675716e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2775
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 3.0443289e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2776
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 3.3487617e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2777
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 3.683638e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2778
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 4.0520018e+12
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 2779
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 5.065002e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2945
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 5.571502e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2946
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 6.1286525e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2947
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 6.741518e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2948
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 7.4156695e+12
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 2949
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 9.269587e+12
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3120
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 1.0196546e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3121
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 1.12162e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 3122
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 1.233782e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3123
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1.3571603e+13
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 84b70b9ad551f4b64bd0a3be1f39c04e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3124
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.6964503e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3300
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.8660953e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3301
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 2.052705e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3302
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 2.2579755e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3303
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2.4837729e+13
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 3304
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 3.104716e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3485
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 3.4151877e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: bc7add05b4e61490aae60371bfa7ff72
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3486
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 3.7567064e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 3487
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 4.132377e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3488
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 4.5456147e+13
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2611b81bd45a54002b6abdcd557217d9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3489
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 5.6820186e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3675
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 6.2502205e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: bc7add05b4e61490aae60371bfa7ff72
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3681
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 6.8752423e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 3682
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 7.562767e+13
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3683
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 8.319044e+13
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2611b81bd45a54002b6abdcd557217d9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3684
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 1.03988045e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3875
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 1.1438685e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3876
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.2582553e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3877
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 1.3840808e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 3878
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1.5224889e+14
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: deb7cf46240dc4fe2a20ed5ef1c29c58
+    GemsForReset: 3879
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.9031112e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4075
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 2.0934223e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4076
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2.3027645e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4077
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2.533041e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4078
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 2.7863451e+14
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: f347c4423074248e0879ad2e839558d6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4079
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 3.4829313e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4280
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 3.8312246e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 78f4da9b383634dfb81b82346d319f61
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4281
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 4.214347e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4282
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 4.6357817e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9bd770a1021174b41a3b92821e6dc456
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4283
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 5.0993596e+14
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 4284
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 6.3742e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4490
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 7.0116193e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4491
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 7.7127815e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4492
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 8.4840596e+14
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: f0b9854edcca24eb48c5f86bf4bd3f29
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4493
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 9.332466e+14
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4494
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.1665582e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4705
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 1.2832141e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0eb0465a46c4248d0a988a1b01f774b8
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4706
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 1.4115355e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4707
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1.5526889e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4708
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.7079579e+15
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4709
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 2.1349473e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4925
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 2.3484422e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4926
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 2.5832862e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4927
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 2.841615e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 4928
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 3.1257765e+15
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 4929
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 3.9072206e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5150
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 4.2979426e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5151
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 4.727737e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5152
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 5.2005107e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5153
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 5.7205614e+15
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5154
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 7.150702e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5380
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 7.865772e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5381
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 8.6523496e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5382
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 9.517584e+15
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5383
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1.0469342e+16
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5384
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.3086678e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5615
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 1.4395346e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 6887c0a885a4e4993838f6b9790ea412
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5616
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1.5834881e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5617
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 1.7418369e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5618
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1.9160206e+16
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 95e330409c956424db0c9f428cd4681d
+    GemsForReset: 5619
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 2.3950258e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5855
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 2.6345284e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5856
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 2.897981e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5857
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 3.1877793e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5858
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 3.5065571e+16
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: d0823d2cd962443cbb441d1e65402e3d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 5859
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 4.3831967e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 6100
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 4.821516e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6101
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 5.303668e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6102
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 5.8340345e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6103
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 6.417438e+16
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 30592eced38034dd4b10c32a0286c442
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6104
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 8.021797e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6350
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 8.823978e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b071f6139ff25443c9cf36d8dc950b7a
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6351
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 9.706375e+16
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6352
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 1.0677012e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6353
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 1.17447135e+17
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: e37ec4690a9a14cf1a576d0999e6d87d
+    GemsForReset: 6354
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1.4680892e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6605
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 1.614898e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2eed079451873464cbb6ea03366c7e3e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6606
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 1.776388e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 3e33aaf731c4342339465a54a857f7dd
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6607
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.9540268e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6608
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 2.1494294e+17
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 24fa116a1aec14983a149c865ad77982
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6609
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 2.6867867e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 8d2378ce88ba84e9eb3d26750b59c56d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6865
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 2.9554656e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6866
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 3.251012e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: b323590c0bd4346a4830b8cca2f39792
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6867
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 3.576113e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 6868
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 3.9337245e+17
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: dbae666ef5fe1469991912c738172a65
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 6869
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 4.9171555e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7130
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 5.4088712e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9265827bab56546e9a0a67db224137c9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7131
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 5.9497584e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7132
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 6.5447344e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: af568ba399c7141159eacb0830dd67ae
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7133
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 7.199208e+17
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 850a211204c4c4476b1ba0e0fcaf046f
+    GemsForReset: 7134
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 8.999009e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 0ebc1ecd242fc467d90b5da1ec154920
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7400
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 9.898911e+17
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7401
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 1.0888802e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 4ac86532ef48c4dbebc222721bf13ae6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7402
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: d70138ead8d0b4b84ab734462601ceef
+    HealthPinata: 1.1977681e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9245648ee7edf489e8caa21a001d5bc6
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7403
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 4f888d8bb32d94270ba5fbbb146d8e72
+    HealthPinata: 1.3175449e+18
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 75fbf22fe2ca34a88a203a9fabaf073b
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7404
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: cedf4cb28b92e462b91dd848e20befc9
+    HealthPinata: 1.6469313e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7675
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 1.8116244e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5a3a6dd2a15f8480b802f8643f5226c2
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7676
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 1.9927868e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 7677
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 2.1920654e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 9ed6ca5faf31a4b768e5f25cd7b7c1eb
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7678
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 2.411272e+18
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 84b70b9ad551f4b64bd0a3be1f39c04e
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7679
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 26e780125606343fbbbf16293560768a
+    HealthPinata: 3.01409e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 58f892946ffb041c184335aa17b612b4
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7955
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 9d884318923ea452f97bdb53f756d29f
+    HealthPinata: 3.315499e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7956
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 3.647049e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 5e1587dfe7bb44c959dba45f39f9627c
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7957
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 01156a522ac6e4c35a2a899cc45fecb8
+    HealthPinata: 4.0117537e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: ad9ab79771672421aa567e2e35c7a12d
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 7958
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 4.4129292e+18
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 14a37c4a717a44c028093e98a54251e6
+    GemsForReset: 7959
+  - AssetBack:
+      assetGUID: bacb9f81b0f6341ae84570514f6d66b5
+    AssetPinata:
+      assetGUID: 5b5d4b395e23f447e87b0e317fe32d75
+    HealthPinata: 5.5161613e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 8240
+  - AssetBack:
+      assetGUID: a3e3e30cf3b974662913b63e87667e57
+    AssetPinata:
+      assetGUID: 58603b4b0e4d346548ac7730423a5b82
+    HealthPinata: 6.0677775e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.1
+    AssetLevelObstacles:
+      assetGUID: bc7add05b4e61490aae60371bfa7ff72
+    PinataObstacleHealth: 0.1
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 8241
+  - AssetBack:
+      assetGUID: 1504251818e8a4b9092ad4432ec673ba
+    AssetPinata:
+      assetGUID: ded610bd45e61412aa3e61dba409ac77
+    HealthPinata: 6.674555e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 1
+    LevelObstacleHealth: 0.15
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.15
+    AssetPinataObstacles:
+      assetGUID: ceec53714758b4a65b26f54cafa66915
+    GemsForReset: 8242
+  - AssetBack:
+      assetGUID: 2b76f98a0c53c49f8a92e11552697820
+    AssetPinata:
+      assetGUID: 583d1d9f97d454b1bb8721d5da612b13
+    HealthPinata: 7.342011e+18
+    WinCoinsPersentHealthPinata: 1.2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 8243
+  - AssetBack:
+      assetGUID: 3c8d964099cd84557bd57b423c5c1d36
+    AssetPinata:
+      assetGUID: 898daf27751d64d4a8b1a81ee46d0730
+    HealthPinata: 8.076212e+18
+    WinCoinsPersentHealthPinata: 2
+    UseCustomHealth: 0
+    LevelObstacleHealth: 0.2
+    AssetLevelObstacles:
+      assetGUID: 2611b81bd45a54002b6abdcd557217d9
+    PinataObstacleHealth: 0.2
+    AssetPinataObstacles:
+      assetGUID: 
+    GemsForReset: 8244
+  coinsBase: 20
+  coinsUpgrate: 30
+  factorAround: 0.15
+  factorSlower: 0.35
+  partPinataHealth: 0.2
+  healthMultiplier: 1.2
+  minRandomLevelsIndex: 26
+  maxRandomLevelsIndex: 280
+  ButtonExport: ExportToFile
+  ButtonImport: ImportFromFile
+  startLevel: 10
+  count: 104
+  ButtonCloneLevels: Clone

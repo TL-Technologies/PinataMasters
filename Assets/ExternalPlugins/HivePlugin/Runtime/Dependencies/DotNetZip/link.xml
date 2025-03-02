@@ -1,0 +1,3 @@
+<linker>
+    <assembly fullname="Ionic.Zip.Reduced" preserve="all"/>
+</linker>

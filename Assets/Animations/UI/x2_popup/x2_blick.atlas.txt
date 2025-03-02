@@ -1,0 +1,69 @@
+
+x2_blick.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_left1
+  rotate: false
+  xy: 829, 539
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+coin_left2
+  rotate: false
+  xy: 239, 397
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+coin_right1
+  rotate: false
+  xy: 331, 399
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+coin_right2
+  rotate: false
+  xy: 2, 2
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+coin_right3
+  rotate: false
+  xy: 239, 365
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+illustration
+  rotate: false
+  xy: 2, 429
+  size: 825, 368
+  orig: 825, 368
+  offset: 0, 0
+  index: -1
+x2_coin
+  rotate: false
+  xy: 2, 232
+  size: 235, 195
+  orig: 235, 195
+  offset: 0, 0
+  index: -1
+x2_coin_blick
+  rotate: false
+  xy: 2, 35
+  size: 235, 195
+  orig: 235, 195
+  offset: 0, 0
+  index: -1
+x2_coin_mask
+  rotate: true
+  xy: 829, 570
+  size: 227, 187
+  orig: 227, 187
+  offset: 0, 0
+  index: -1

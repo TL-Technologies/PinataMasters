@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b202fc450de9d478fbfa8c242e802d62, type: 3}
+  m_Name: AdditionalCoins
+  m_EditorClassIdentifier: 
+  Type: 0
+  BuyPrice: 0
+  UpgradePrice:
+  - 5
+  - 30
+  - 60
+  - 90
+  - 150
+  - 180
+  - 250
+  - 500
+  - 1000
+  StartValue: 1
+  Increment: 0.15
+  DefaultValue: 1
+  SkillDescKey: ui.skin.ability.coins
+  SkillDescFormat: x{0}
+  MaxUpgradeLevel: 9

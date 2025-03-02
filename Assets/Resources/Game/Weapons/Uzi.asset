@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: Uzi
+  Price: 12000
+  Sprite: {fileID: 21300000, guid: cf8c06e18ce0e4f1d80ef78adf57bc4a, type: 3}
+  Mask: {fileID: 21300000, guid: 879ce443c0a8248b28c378f89c633a86, type: 3}
+  UnlockEffect: {fileID: 198793123182863002, guid: 9392522984f3d4967b1781902492ba9d,
+    type: 3}
+  AmmoBase: 18
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 488
+  DamageBase: 184
+  DamageUpgrade: 10
+  DamageUpgradePrice: 442
+  CoinsBase: 3
+  CoinsUpgrate: 1
+  CanAutoShoot: 1
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 85479f25a396940c98c2b7c88d814669, type: 3}
+    Aim: 1
+    PrefabShell: {fileID: 114168780292763744, guid: 797cbb2c22ad943dea18f7095e8ea184,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 5
+    RateOfFire: 0.06
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 0
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 0
+    ShellVibrationType: 103
+    ShotClip: {fileID: 8300000, guid: 6e5050d264762425091ffb33104336d5, type: 3}
+    ShotClipVolume: 0.4
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

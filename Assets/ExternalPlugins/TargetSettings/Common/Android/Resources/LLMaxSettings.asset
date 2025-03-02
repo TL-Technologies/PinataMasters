@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c4ad0783094b62854adc52aad7fd80, type: 3}
+  m_Name: LLMaxSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  SdkKey: 6AQkyPv9b4u7yTtMH9PT40gXg00uJOTsmBOf7hDxa_-FnNZvt_qTLnJAiKeb5-2_T8GsI_dGQKKKrtwZTlCzAR
+  IsBannerEnabled: 1
+  BannerId: 5e3dd62c5e1107e8
+  IsInterstitialEnabled: 1
+  InterstitialId: e5a403c5bbcbb9bf
+  IsRewardedEnabled: 1
+  RewardedId: 7c47962d6e9dc089
+  BannerPosition: 1
+  PhoneBannerWidth: 320
+  TabletBannerWidth: 728
+  EnableAdaptiveBanners: 0
+  ForceBanners: 1
+  ShouldStopAutoRefreshOnAdExpand: 1
+  PrivacyUrl: https://aigames.ae/policy#h.hn0lb3lfd0ij
+  TermsUrl: https://aigames.ae/policy#h.v7mztoso1wgw
+  EnabledAdapters:
+  - AdColonyAdapter
+  - ByteDanceAdapter
+  - FacebookAdapter
+  - FyberAdapter
+  - GoogleAdapter
+  - GoogleAdManagerAdapter
+  - HyprMXAdapter
+  - InMobiAdapter
+  - IronSourceAdapter
+  - MintegralAdapter
+  - OguryPresageAdapter
+  - UnityAdsAdapter
+  - VungleAdapter
+  consentApiClassesNamesIncludingAssemblies:
+  - Modules.AppsFlyer.LLAppsFlyerManager, Modules.AppsFlyer
+  - Modules.Firebase.FirebaseManager, Modules.Firebase

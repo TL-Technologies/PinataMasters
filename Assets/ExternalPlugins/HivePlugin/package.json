@@ -1,0 +1,19 @@
+{
+  "name": "com.playgendary.modules.hive",
+  "version": "1.7.26-transfer.4",
+  "displayName": "Hive",
+  "description": "Hive module",
+  "unity": "2019.3",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.20"
+  },
+  "hideInEditor": false,
+  "internal": {
+    "ios": "1.0.1",
+    "android": "1.0.0"
+  }
+}

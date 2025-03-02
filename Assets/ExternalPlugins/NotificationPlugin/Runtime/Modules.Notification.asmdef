@@ -1,0 +1,18 @@
+{
+    "name": "Modules.Notification",
+    "references": [
+        "Modules.General",
+        "Unity.Notifications.Android",
+        "Unity.Notifications.iOS",
+        "Modules.Hive"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

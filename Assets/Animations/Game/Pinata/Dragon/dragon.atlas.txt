@@ -1,0 +1,90 @@
+
+dragon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 6
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 352, 76
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 453, 82
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+hand_back
+  rotate: false
+  xy: 404, 161
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+hand_front
+  rotate: false
+  xy: 404, 75
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 243, 115
+  size: 159, 130
+  orig: 159, 130
+  offset: 0, 0
+  index: -1
+leg_back
+  rotate: false
+  xy: 453, 175
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+leg_front
+  rotate: false
+  xy: 453, 103
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 243, 12
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 243, 62
+  size: 107, 51
+  orig: 107, 51
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 352, 53
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 327, 2
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1

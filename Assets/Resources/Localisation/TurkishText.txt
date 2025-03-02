@@ -1,0 +1,116 @@
+ui.dialog.you_earned,KAZANDIN!
+ui.dialog.collect_double,TOPLA X2
+ui.dialog.collect,TOPLA
+ui.dialog.power,GÜÇ
+ui.dialog.ammo,CEPHANE
+ui.dialog.tap_to_start,BAŞLAMAK İÇİN DOKUN
+ui.dialog.offline_reward,+{0}% ÇEVRİMDIŞI ÖDÜL
+ui.dialog.speed,+{0}% HIZ
+ui.dialog.bonus_coins,+{0}% İKRAMİYE JETONLAR
+ui.dialog.unlock,KİLİDİNİ AÇ
+ui.dialog.choose,SEÇ
+ui.settings.terms_and_privacy,ŞARTLAR VE GİZLİLİK
+ui.settings.soundon,SES:AÇIK
+ui.settings.vibrationon,TİTREŞİM:AÇIK
+ui.settings.soundoff,SES:KAPALI
+ui.settings.vibrationoff,TİTREŞİM:KAPALI
+ui.settings.musicon,MÜZIK:AÇIK
+ui.settings.musicoff,MÜZIK:KAPALI
+ui.settings.header,AYARLAR
+ui.removeads,TÜM REKLAMLARI Kaldır
+ui.dialog.doublecoins,X2 jeton kazan
+ui.dialog.doubleincome,X2 daha fazla ödül
+ui.popup.auto.renewable.subscription.start,ÜCRETSİZ DENEMEYE BAŞLA
+ui.popup.auto.renewable.subscription.button.description,3 gün boyunca ücretsiz"," ardından haftada {0}
+ui.popup.auto.renewable.subscription.week,{0}    HAFTA
+ui.popup.auto.renewable.subscription.month,{0}   AY
+ui.dailygift.header,GÜNLÜK HEDİYE
+ui.offlineearnings.header,ÇEVRİMDIŞI ÖDÜLLER KAZAN!
+ui.dialog.noads.oops,AMAN!
+ui.dialog.noads.adsproblem,REKLAM YOK
+ui.dialog.nointernet,İNTERNET YOK
+ui.dialog.language,Türkçe
+ui.dialog.doubleloot,Jeton yağmanı ikiye katla!
+localnotification.dailygift,Günlük hediye seni bekliyor! Sadece al!
+localnotification.offlinereward,Çevrimdışı olmaktan kazanılan maksimum jeton sayısı artık kullanılabilir durumda!
+ui.dialog.somethingwrong,BİR ŞEYLER TERS GİTTİ
+ui.dialog.ok,TAMAM
+ui.dialog.needcoins,JETONA MI İHTİYACIN VAR?
+ui.dialog.bestvalue,EN İYİ TEKLİF
+ui.dialog.mostpopular,EN POPÜLER
+ui.dialog.free,+{0} ücretsiz
+ui.dialog.buy,SATIN AL
+ui.dialog.get,AL
+ui.dialog.dayupper,{0}. GÜN
+ui.dialog.daylower,{0}. Gün
+ui.dialog.claimed,Teslim Alındı
+ui.dialog.claim,TESLİM AL
+ui.dialog.start,BAŞLA
+ui.dialog.today,bugün
+ui.dialog.rateus,BİZE PUAN VER!
+ui.dialog.likeourgame,Oyunumuzu beğendin mi?
+ui.dialog.ratebutton,PUAN VER!
+ui.dialog.liketoget.desc,{0} ÜCRETSİZ {1}%tag_line%özel ödül kazanmak için beğen!
+ui.dialog.liketoget.button,BEĞEN
+ui.dialog.social.header,ÜCRETSİZ MADENİ PARALAR!
+ui.dialog.subscribe.button,ABONE OL
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Gizlilik Politikası
+ui.subscription.terms,Kullanım Şartları
+ui.dialog.restore,Alımları iade et
+ui.dialog.restore.info,Satın aldıklarınız geri yüklendi
+ui.dialog.restore.button,GERİ YÜKLE
+
+
+ui.prestige.resetprogress,İlerlemeyi sıfırla%tag_line%
+ui.prestige.earngems,mücevher kazanmak için
+ui.prestige.reset,SIFIRLA
+ui.prestige.progresspreseted,İLERLEMEYİ SIFIRLA!
+ui.prestige.desc,Mücevher kazanmak için tüm seviyeler"," silahlar"," yükseltmeler ve jetonlar feda edilsin mi?
+ui.skin.ninja,NİNJA
+ui.skin.shark,KÖPEKBALIĞI
+ui.skin.catman,KEDİ ADAM
+ui.skin.gorsky,GORSKY
+ui.skin.jason,JASON
+ui.skin.50,50
+
+ui.skin.ability.coins,Tüm karakterler için pinatalardan {0} altın
+ui.skin.ability.coinsobstacle,Tüm karakterler için engellerden {0} altın
+ui.skin.ability.obstacledamage,Tüm karakterler için engellere {0} hasar
+ui.skin.ability.crit,Tüm karakterler için {0} kritik vuruş şansı
+ui.skin.ability.upgradeprice,Tüm karakterler için {0} silah yükseltme maliyeti
+ui.skin.ability.doubleshot,Tüm karakterler için her {0} atışta bir çift atış
+ui.prestige.upgrade,Yükseltme
+ui.prestige.lock,{0}. seviyeye ulaş%tag_line%
+ui.prestige.lock2,ve sıfırlama kilidini aç
+
+ui.settings.cloud_login,OTURUM AÇ
+ui.settings.cloud_save_progress,ilerlemeyi kaydetmek için
+ui.settings.cloud_loggedIn,OTURUM AÇILDI
+ui.cloud_load.header,SENKRONİZASYON
+ui.cloud_load.desc,En iyi buluta kaydetme seçeneği bulundu!%tag_line%Buluttan ilerleme durumu yüklensin mi?
+ui.cloud_save.header,UYARI
+ui.cloud_save.desc,Bulut verileri yitirilecektir.%tag_line%Mevcut ilerleme durumu buluta kaydedilsin mi?
+
+ui.dialog.videocoins.header,JETON KAZAN!
+ui.dialog.videocoins.description,Video izle ve jeton kazan
+
+ui.dialog.x2damage.header,SALDIRI HIZINI İKİ KATINA ÇIKAR!
+
+ui.dialog.videogems.header,MÜCEVHER KAZAN!
+ui.dialog.videogems.description,Video izle ve 5 mücevher kazan
+
+ui.dialog.watchfordouble,Video izle ve 3 dakikada 2 kat fazla jeton kazan!
+
+ui.dialog.x2damage.description,Video izle ve saldırı hızını 1 dakika boyunca iki katına çıkar!
+
+ui.dialog.you_won,KAZANDINIZ!
+
+ui.dialog.subscribe.desc,Instagram'da bizi takip et ve ÜCRETSİZ jeton kazan
+
+yes,EVET
+no,HAYIR

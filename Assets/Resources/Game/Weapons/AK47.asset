@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dacf8be9f478f4146bab3d3070992c3b, type: 3}
+  m_Name: AK47
+  m_EditorClassIdentifier: Assembly-CSharp:PinataMasters:WeaponConfig1
+  Desc: AK47
+  Price: 2480000
+  Sprite: {fileID: 21300000, guid: f79f57e2c52954a46bc04a5d1512face, type: 3}
+  Mask: {fileID: 21300000, guid: 51922e5d4721d4ddc9e6471f662abc7a, type: 3}
+  UnlockEffect: {fileID: 198684214185519520, guid: 266411ab143d7423db2472fc9d6b470e,
+    type: 3}
+  AmmoBase: 30
+  AmmoUpgrade: 1
+  AmmoUpgradePrice: 18100
+  DamageBase: 4540
+  DamageUpgrade: 151
+  DamageUpgradePrice: 16400
+  CoinsBase: 5
+  CoinsUpgrate: 1
+  CanAutoShoot: 1
+  AutoShootCooldown: 0
+  shotsPercents: 0.2
+  impulseMultiplier: 0.2
+  Parameters:
+    View: {fileID: 21300000, guid: 1cc54aa13036647058e8cfb287f3f726, type: 3}
+    Aim: 2
+    PrefabShell: {fileID: 114168780292763744, guid: 135cbe822f25046da83cd009b272631c,
+      type: 3}
+    TimeReload: 0.1
+    SizeMagazine: 5
+    RateOfFire: 0.05
+    DoubleShootDelay: 0.06
+    HasSpray: 0
+    Spray: 5
+    ShootEffect: {fileID: 0}
+    MagazineVibrationType: 0
+    ShellVibrationType: 103
+    ShotClip: {fileID: 8300000, guid: 6e5050d264762425091ffb33104336d5, type: 3}
+    ShotClipVolume: 0.7
+    MagazineClip: {fileID: 0}
+    ReloadClip: {fileID: 0}
+    PassiveClip: {fileID: 0}
+    PassiveClipVolume: 0

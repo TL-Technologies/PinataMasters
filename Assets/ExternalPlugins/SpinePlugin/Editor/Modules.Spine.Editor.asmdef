@@ -1,0 +1,18 @@
+{
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "name": "Modules.Spine.Editor",
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "optionalUnityReferences": [],
+    "references": [
+        "Modules.Spine",
+        "Modules.Legacy",
+        "Modules.Legacy.Editor"
+    ],
+    "precompiledReferences": []
+}

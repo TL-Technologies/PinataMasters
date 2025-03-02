@@ -1,0 +1,21 @@
+{
+    "name": "Modules.InAppPurchase.Editor",
+    "references": [
+        "GUID:c8e85cdf07fb64035940b15f79a895d2",
+        "GUID:ff7faa2871224164c8612bf2cd4495c7",
+        "GUID:b7945be0daf3c3742a8fc954d9de9ba4",
+        "GUID:e25a61468ff30f44fad56a6b40062363",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

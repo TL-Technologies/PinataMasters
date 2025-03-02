@@ -1,0 +1,17 @@
+{
+  "name": "com.playgendary.modules.analytics",
+  "version": "1.4.7-transfer.2",
+  "displayName": "Analytics",
+  "description": "Analytics module",
+  "unity": "2019.3",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.playgendary.modules.general": "3.0.31",
+    "com.playgendary.modules.hive": "1.6.9"
+  },
+  "hideInEditor": false,
+  "internal":{}
+}

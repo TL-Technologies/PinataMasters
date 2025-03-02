@@ -1,0 +1,104 @@
+
+69_body.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 79, 8
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 467, 217
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: false
+  xy: 148, 43
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 352, 210
+  size: 113, 39
+  orig: 113, 39
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 89
+  size: 174, 160
+  orig: 174, 160
+  offset: 0, 0
+  index: -1
+hair_front_l
+  rotate: false
+  xy: 279, 166
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+hair_front_r
+  rotate: false
+  xy: 2, 2
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 148, 4
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 178, 118
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 279, 138
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 248, 100
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 178, 95
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: true
+  xy: 395, 182
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+tattoo
+  rotate: false
+  xy: 352, 178
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1

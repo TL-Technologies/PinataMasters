@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameBackgrounds
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 784722ac33fe348a08273f295b34d61c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1a67de10c811d4dd7835e4f31740f7d8, type: 3}
+  - {fileID: 21300000, guid: d8ddb9203c98f4ccb916621560aefbc9, type: 3}
+  - {fileID: 21300000, guid: 7e6f9140dc6ee4240a3912f56e4b5c4d, type: 3}
+  - {fileID: 21300000, guid: e984a6a0cd6a24273a059814f4a2beec, type: 3}
+  - {fileID: 21300000, guid: 0312ede03892a4f2d8e9da0323b23b96, type: 3}
+  - {fileID: 21300000, guid: 825885f0201274a2e8aec7c564d7616f, type: 3}
+  - {fileID: 21300000, guid: 5685a041d821542218b6a4f9ed040f59, type: 3}
+  - {fileID: 21300000, guid: 0ec17d51d1446432497deedd1f2f53bb, type: 3}
+  - {fileID: 21300000, guid: 0fec0d8118afe4aafb205b12e27e19b9, type: 3}
+  - {fileID: 21300000, guid: 74b5b1c1cf6554b1094f3d0fac7cac20, type: 3}
+  - {fileID: 21300000, guid: abbe87d1699a748b3a5eb375f5548df0, type: 3}
+  - {fileID: 21300000, guid: 44a1b323bcbc043f182d3109ab2acf8a, type: 3}
+  - {fileID: 21300000, guid: d4d05853f9c6b475d95d6a32fb3373ae, type: 3}
+  - {fileID: 21300000, guid: 833046a3bde2e4fd1a976fc5138e4684, type: 3}
+  - {fileID: 21300000, guid: 589f8f14902c54e36b75bc0193fe9e29, type: 3}
+  - {fileID: 21300000, guid: ea129524e4c8549c398356bfb668a496, type: 3}
+  - {fileID: 21300000, guid: 295cf174502e54de190e6b5a86ec917d, type: 3}
+  - {fileID: 21300000, guid: c94b82b450bc042c2b2b6e7a2afedfb9, type: 3}
+  - {fileID: 21300000, guid: 02ae42d4b2e9340b18a29bf66b0e201b, type: 3}
+  - {fileID: 21300000, guid: 77e72bd4c8a324030ac848921dc67e27, type: 3}
+  - {fileID: 21300000, guid: e93125e47318e4325ac4f1f2e3417359, type: 3}
+  - {fileID: 21300000, guid: 5e547e1544c3e470682b0c2b433f8434, type: 3}
+  - {fileID: 21300000, guid: 3e618ab598b4d4ef491668de8b4c0992, type: 3}
+  - {fileID: 21300000, guid: 6cb411d6e80954d0f821e10cf9f7806e, type: 3}
+  - {fileID: 21300000, guid: 408b47e64b07f4140ac4c549acbb38c0, type: 3}
+  - {fileID: 21300000, guid: 07e41a686bb5b4f01a7fdbd8f394b1e7, type: 3}
+  - {fileID: 21300000, guid: 05d91278ce84f435099aba66fd94efe8, type: 3}
+  - {fileID: 21300000, guid: 7b321059d23664c3386964badf829145, type: 3}
+  - {fileID: 21300000, guid: d2ea9a9936489409099f339b0088a1c7, type: 3}
+  - {fileID: 21300000, guid: a241efb9b5e8e4191914328ea1cbaca8, type: 3}
+  - {fileID: 21300000, guid: 114b741ab313945d8849f84637042212, type: 3}
+  - {fileID: 21300000, guid: 2dc03d4a74e1a4485ba90fa1db519a81, type: 3}
+  - {fileID: 21300000, guid: 4da01c8a001234096a29a4ed3ca548c6, type: 3}
+  - {fileID: 21300000, guid: 456b849a9256a4a4f9bc6d7d60c90c68, type: 3}
+  - {fileID: 21300000, guid: e13c079a1cacf48a8a9a9edda841d362, type: 3}
+  - {fileID: 21300000, guid: 724aa8ca97c1a4026b00d9cebd02e9fa, type: 3}
+  - {fileID: 21300000, guid: cf4b6cca48a014d6db2faffd3b2ccc2f, type: 3}
+  - {fileID: 21300000, guid: 46f4eeca2b45748c88c64b13ebeff11d, type: 3}
+  - {fileID: 21300000, guid: b1ff3adb3034245b3aa5de8ce37bf728, type: 3}
+  - {fileID: 21300000, guid: 8cf0ee4c0a816460c928c1cb5a053bb7, type: 3}
+  - {fileID: 21300000, guid: 5cccef5cb9137414991b527214b1712b, type: 3}
+  - {fileID: 21300000, guid: 789c577ca978f4729bf034921be67e93, type: 3}
+  - {fileID: 21300000, guid: 675179ac1d2704c5f97bc8a788e50b78, type: 3}
+  - {fileID: 21300000, guid: d06ce5dc980d64859b631b89eb9ced46, type: 3}
+  - {fileID: 21300000, guid: 1bad3f6d995464337ad2928a33ba9f4a, type: 3}
+  - {fileID: 21300000, guid: 7ffc577d7f25a453aaf0f55ebed07ac6, type: 3}
+  - {fileID: 21300000, guid: b827dc7dbf6da41e1bfb22886d342a50, type: 3}
+  - {fileID: 21300000, guid: 98f4659d8e7084457a2fac638166a712, type: 3}
+  - {fileID: 21300000, guid: 713d8acde45b34aa292ef64bf4e17804, type: 3}
+  - {fileID: 21300000, guid: c2b1141eda7144856a059c2d80c8647d, type: 3}
+  - {fileID: 21300000, guid: 974c253e7b03e4468a9d30f8ee8d9fec, type: 3}
+  - {fileID: 21300000, guid: 3a444c4e515434349b3a7ef3699613ae, type: 3}
+  - {fileID: 21300000, guid: bc36538e61f5d42d9a0ef950761b70f7, type: 3}
+  - {fileID: 21300000, guid: e0f4d1be1727f4ba4a55ff7ff4499e81, type: 3}
+  - {fileID: 21300000, guid: 960438bef201b4bad932b1b6b2206a74, type: 3}
+  - {fileID: 21300000, guid: c800770fe82bf4914b7a90145abb2022, type: 3}
+  - {fileID: 21300000, guid: 8c02190f62d9d48328f5ae94b5debcb2, type: 3}
+  - {fileID: 21300000, guid: d3e8e04f95a074cc8906ad0da993c10a, type: 3}
+  - {fileID: 21300000, guid: 39f048bf1d36b4653b88e1b96dbaf044, type: 3}
+  - {fileID: 21300000, guid: 30ed80cffd97248629f6628f66141fe0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - foreground_china_middle
+  - venice_plan_dark3
+  - chinatown_plan2
+  - brooklyn_top_right
+  - queens_dark_plan2
+  - queens_plan3
+  - brooklyn_plan3
+  - venice_plan_dark1
+  - queens_floor
+  - brooklyn_plan1
+  - junktown_plan1
+  - foreground_junktown_top_middle
+  - foreground_junktown_left
+  - brooklyn_bottom_right
+  - chinatown_plan5
+  - queens_dark_plan1
+  - foreground_china_left_top
+  - brooklyn_top_middle
+  - chinatown_plan4
+  - venice_plan_dark2
+  - queens_plan5
+  - foreground_china_back
+  - queens_dark_plan4
+  - brooklyn_floor
+  - foreground_china_right_top
+  - queens_plan1
+  - brooklyn_plan2
+  - brooklyn_bottom_left
+  - junktown_plan3
+  - junktown_rocks
+  - foreground_junktown_top_right
+  - venice_plan3
+  - queens_plan4
+  - venice_floor
+  - venice_water_tile1
+  - venice_plan2
+  - queens_dark_plan3
+  - venice_rocks
+  - foreground_china_right_bottom
+  - chinatown_fence
+  - junktown_plan4
+  - venice_water_tile2
+  - queens_plan2
+  - queens_dark_plan5
+  - brooklyn_fence
+  - junktown_plan2
+  - chinatown_plan3
+  - chinatown_plan1
+  - foreground_junktown_right_back
+  - brooklyn_plan4
+  - foreground_china_left_bottom
+  - foreground_junktown_top_left
+  - junktown_sky
+  - foreground_junktown_right_front
+  - brooklyn_top_left
+  - venice_plan4
+  - venice_plan1
+  - junktown_floor
+  - chinatown_floor
+  - chinatown_rocks
+  m_Tag: GameBackgrounds
+  m_IsVariant: 0

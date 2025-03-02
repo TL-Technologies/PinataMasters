@@ -1,0 +1,27 @@
+{
+    "name": "Modules.General.Editor.Tests",
+    "references": [
+        "GUID:ff7faa2871224164c8612bf2cd4495c7",
+        "GUID:b7945be0daf3c3742a8fc954d9de9ba4",
+        "GUID:58d4668e32aa143a1b9905f94a515b0f",
+        "GUID:e94a55de40b2f4670aa95e2792df31eb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Google.Apis.Auth.dll",
+        "Google.Apis.Sheets.v4.dll",
+        "Google.Apis.dll",
+        "Google.Apis.Core.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

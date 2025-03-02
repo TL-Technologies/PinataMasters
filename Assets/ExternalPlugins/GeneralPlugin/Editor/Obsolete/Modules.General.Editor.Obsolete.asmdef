@@ -1,0 +1,19 @@
+{
+    "name": "Modules.General.Editor.Obsolete",
+    "references": [
+        "Modules.General.Obsolete",
+        "Modules.General",
+        "Modules.General.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

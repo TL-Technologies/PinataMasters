@@ -1,0 +1,20 @@
+
+69_legs.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shin
+  rotate: false
+  xy: 2, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: false
+  xy: 34, 5
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,116 @@
+ui.dialog.you_earned,ТЫ ВЫИГРАЛ МОНЕТЫ!
+ui.dialog.collect_double,СОБРАТЬ X2
+ui.dialog.collect,СОБРАТЬ
+ui.dialog.power,СИЛА
+ui.dialog.ammo,ОБОЙМА
+ui.dialog.tap_to_start,КОСНИСЬ "," ЧТОБЫ НАЧАТЬ 
+ui.dialog.offline_reward,+{0}% НАГРАДА ЗА ВОЗВРАЩЕНИЕ
+ui.dialog.speed,+{0}% СКОРОСТЬ
+ui.dialog.bonus_coins,+{0}% БОНУСНЫЕ МОНЕТЫ
+ui.dialog.unlock,РАЗБЛОКИРОВАТЬ
+ui.dialog.choose,ВЫБРАТЬ
+ui.settings.terms_and_privacy,УСЛОВИЯ И КОНФИДЕНЦИАЛЬНОСТЬ
+ui.settings.soundon,ЗВУК:ВКЛ
+ui.settings.vibrationon,ВИБРАЦИЯ:ВКЛ
+ui.settings.soundoff,ЗВУК:ВЫКЛ
+ui.settings.vibrationoff,ВИБРАЦИЯ:ВЫКЛ
+ui.settings.musicon,МУЗЫКА:ВКЛ
+ui.settings.musicoff,МУЗЫКА:ВЫКЛ
+ui.settings.header,НАСТРОЙКИ
+ui.removeads,Убрать РЕКЛАМУ
+ui.dialog.doublecoins,Получить в 2 раза больше монет
+ui.dialog.doubleincome,Удвоенное вознаграждение
+ui.popup.auto.renewable.subscription.start,ПОПРОБУЙ БЕСПЛАТНУЮ ВЕРСИЮ
+ui.popup.auto.renewable.subscription.button.description,3 дня бесплатно"," затем {0} в неделю
+ui.popup.auto.renewable.subscription.week,1 НЕДЕЛЯ    {0}
+ui.popup.auto.renewable.subscription.month,1 МЕСЯЦ    {0}
+ui.dailygift.header,ЕЖЕДНЕВНЫЙ ПОДАРОК
+ui.offlineearnings.header,ПОЛУЧИ НАГРАДУ ЗА ВОЗВРАЩЕНИЕ!
+ui.dialog.noads.oops,УПС!
+ui.dialog.noads.adsproblem,БЕЗ РЕКЛАМЫ
+ui.dialog.nointernet,НЕТ ИНТЕРНЕТА
+
+ui.dialog.language,Русский
+ui.dialog.doubleloot,Удвой свои монеты!
+localnotification.dailygift,Ежедневный подарок ждет тебя! Просто забери его!
+localnotification.offlinereward,Доступно максимальное количество монет за возвращение!
+ui.dialog.somethingwrong,ЧТО-ТО ПОШЛО НЕ ТАК
+ui.dialog.ok,ОК
+ui.dialog.needcoins,НУЖНЫ МОНЕТЫ?
+ui.dialog.bestvalue,ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ
+ui.dialog.mostpopular,САМОЕ%tag_line%ПОПУЛЯРНОЕ
+ui.dialog.free,+{0} бесплатно
+ui.dialog.buy,КУПИТЬ
+ui.dialog.get,ПОЛУЧИТЬ
+ui.dialog.dayupper,ДЕНЬ {0}
+ui.dialog.daylower,День {0}
+ui.dialog.claimed,Получено
+ui.dialog.claim,ЗАБРАТЬ
+ui.dialog.start,НАЧАТЬ
+ui.dialog.today,сегодня
+ui.dialog.rateus,ОЦЕНИ НАС!
+ui.dialog.likeourgame,Нравится наша игра?
+ui.dialog.ratebutton,ОЦЕНИТЬ!
+ui.dialog.liketoget.desc,{0} Поставь лайк"," {1}%tag_line%чтобы получить специальное вознаграждение БЕСПЛАТНО!
+ui.dialog.liketoget.button,ПОСТАВИТЬ ЛАЙК
+ui.dialog.social.header,БЕСПЛАТНЫЕ МОНЕТЫ!
+ui.dialog.subscribe.button,ПОДПИСАТЬСЯ
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Политика Конфиденциальности
+ui.subscription.terms,Условия Использования
+ui.dialog.restore,Восстановить покупки
+ui.dialog.restore.info,Твои покупки восстановлены
+ui.dialog.restore.button,ВОССТАНОВИТЬ
+
+
+ui.prestige.resetprogress,Сбрось прогресс","%tag_line%
+ui.prestige.earngems,чтобы заработать драгоценности
+ui.prestige.reset,СБРОС
+ui.prestige.progresspreseted,СБРОС ПРОГРЕССА!
+ui.prestige.desc,Пожертвуешь всеми уровнями"," оружием"," апгрейдами и монетами"," чтобы заработать драгоценности?
+ui.skin.ninja,НИНДЗЯ
+ui.skin.shark,АКУЛА
+ui.skin.catman,КОШАТНИК
+ui.skin.gorsky,ГОРСКИ
+ui.skin.jason,ДЖЕЙСОН
+ui.skin.50,50
+
+ui.skin.ability.coins,{0} золота из пиньят для всех персонажей
+ui.skin.ability.coinsobstacle,{0} золота от препятствий для всех персонажей
+ui.skin.ability.obstacledamage,{0} ущерб препятствиям для всех персонажей
+ui.skin.ability.crit,{0} вероятность критического попадания для всех персонажей
+ui.skin.ability.upgradeprice,{0} стоимость апгрейда оружия для всех персонажей
+ui.skin.ability.doubleshot,Двойной выстрел за каждые {0} выстрелов для всех персонажей
+ui.prestige.upgrade,Апгрейд
+ui.prestige.lock,Достигни уровня {0}%tag_line%
+ui.prestige.lock2,для разблокировки сброса
+
+ui.settings.cloud_login,ВОЙТИ
+ui.settings.cloud_save_progress,для сохранения прогресса
+ui.settings.cloud_loggedIn,ВХОД ВЫПОЛНЕН
+ui.cloud_load.header,СИНХРОНИЗАЦИЯ
+ui.cloud_load.desc,Найдено лучшее сохранение в облаке!%tag_line%Загрузить прогресс из облака?
+ui.cloud_save.header,ПРЕДУПРЕЖДЕНИЕ
+ui.cloud_save.desc,Данные из облака будут потеряны.%tag_line%Сохранить текущий прогресс в облаке?
+
+ui.dialog.videocoins.header,ПОЛУЧИ МОНЕТЫ!
+ui.dialog.videocoins.description,Посмотри видео и получи монеты!
+
+ui.dialog.x2damage.header,УДВОЙ СКОРОСТЬ АТАКИ!
+ui.dialog.x2damage.description,Посмотри видео и удвой свою скорость атаки в течение 1 минуты!
+
+ui.dialog.videogems.header,ПОЛУЧИ КРИСТАЛЛЫ!
+ui.dialog.videogems.description,Посмотри видео и получи 5 кристаллов
+
+ui.dialog.watchfordouble,Посмотри видео и получи в 2 раза больше монет в течение 3 минут!
+
+ui.dialog.you_won,ТЫ ВЫИГРАЛ!
+
+ui.dialog.subscribe.desc,Подпишись на нас в Instagram и получи БЕСПЛАТНЫЕ монеты
+
+yes,ДА
+no,НЕТ

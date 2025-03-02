@@ -1,0 +1,125 @@
+
+fortnite.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 82
+  size: 229, 172
+  orig: 229, 172
+  offset: 0, 0
+  index: -1
+ear_back
+  rotate: true
+  xy: 877, 158
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+ear_front
+  rotate: true
+  xy: 339, 12
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 789, 77
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+hand_back
+  rotate: true
+  xy: 579, 63
+  size: 91, 108
+  orig: 91, 108
+  offset: 0, 0
+  index: -1
+hand_front
+  rotate: true
+  xy: 2, 14
+  size: 66, 120
+  orig: 66, 120
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 233, 99
+  size: 171, 155
+  orig: 171, 155
+  offset: 0, 0
+  index: -1
+head_top
+  rotate: false
+  xy: 406, 99
+  size: 171, 155
+  orig: 171, 155
+  offset: 0, 0
+  index: -1
+leg_back
+  rotate: true
+  xy: 233, 2
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+leg_front
+  rotate: false
+  xy: 457, 11
+  size: 111, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 789, 111
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 124, 10
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 579, 156
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 992, 224
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+sign
+  rotate: true
+  xy: 734, 160
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 689, 57
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 992, 174
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1

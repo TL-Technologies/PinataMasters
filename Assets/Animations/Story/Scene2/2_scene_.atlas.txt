@@ -1,0 +1,48 @@
+
+2_scene_.png
+size: 1879,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2, 2
+  size: 512, 683
+  orig: 512, 683
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 687, 151
+  size: 824, 363
+  orig: 824, 363
+  offset: 0, 0
+  index: -1
+katana_glow
+  rotate: false
+  xy: 1278, 76
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+tv
+  rotate: false
+  xy: 1513, 221
+  size: 364, 293
+  orig: 364, 293
+  offset: 0, 0
+  index: -1
+tv_glow
+  rotate: false
+  xy: 1513, 41
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+tv_noise
+  rotate: false
+  xy: 687, 52
+  size: 589, 97
+  orig: 589, 97
+  offset: 0, 0
+  index: -1

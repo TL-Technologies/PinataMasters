@@ -1,0 +1,117 @@
+ui.dialog.you_earned,TU AS GAGNÉ !
+ui.dialog.collect_double,COLLECTE 2 FOIS PLUS
+ui.dialog.collect,COLLECTE
+ui.dialog.power,PUISSANCE
+ui.dialog.ammo,MUNITIONS
+ui.dialog.tap_to_start,CLIQUE POUR COMMENCER
+ui.dialog.offline_reward,+{0}% RÉCOMPENSE HORS LIGNE
+ui.dialog.speed,+{0}% VITESSE
+ui.dialog.bonus_coins,+{0}% PIÈCES EN BONUS
+ui.dialog.unlock,DÉBLOQUER
+ui.dialog.choose,CHOISIR
+ui.settings.terms_and_privacy,CONDITIONS D'UTILISATION ET VIE PRIVÉE
+ui.settings.soundon,SON : ACTIVÉ
+ui.settings.vibrationon,VIBRATIONS : ACTIVÉES
+ui.settings.soundoff,SON : DÉSACTIVÉ
+ui.settings.vibrationoff,VIBRATIONS : DÉSACTIVÉES
+ui.settings.musicon,MUSIQUE: ACTIVÉE
+ui.settings.musicoff,MUSIQUE: DÉSACTIVÉE
+ui.settings.header,RÉGLAGES
+ui.removeads, Supprimer LES PUBLICITÉS
+ui.dialog.doublecoins,gagne 2 fois plus de pièces
+ui.dialog.doubleincome,2 fois plus de récompenses
+ui.popup.auto.renewable.subscription.start,COMMENCE L'ESSAI GRATUIT
+ui.popup.auto.renewable.subscription.button.description,3 jours gratuits"," puis {0} par semaine
+ui.popup.auto.renewable.subscription.week,1 SEMAINE    {0}
+ui.popup.auto.renewable.subscription.month,1 MOIS    {0}
+ui.dailygift.header,UN CADEAU QUOTIDIEN
+ui.offlineearnings.header,OBTIENS DES GAINS HORS LIGNE !
+ui.dialog.noads.oops,OUPS !
+ui.dialog.noads.adsproblem,PAS DE PUBLICITÉS
+ui.dialog.nointernet,PAS DE CONNEXION INTERNET
+ui.dialog.language,Français
+ui.dialog.doubleloot,Double ton butin de pièces !
+localnotification.dailygift,Un cadeau quotidien t’attend ! Prends-le"," c'est tout !
+localnotification.offlinereward,Tu as atteint le montant maximal de pièces pour être en mode hors ligne !
+ui.dialog.somethingwrong,UNE ERREUR S'EST PRODUITE
+ui.dialog.ok,OK
+ui.dialog.needcoins,TU AS BESOIN DE PIÈCES ?
+ui.dialog.bestvalue,MEILLEURE VALEUR
+ui.dialog.mostpopular,LE PLUS POPULAIRE
+ui.dialog.free,+{0} gratuit
+ui.dialog.buy,ACHETER
+ui.dialog.get,OBTENIR
+ui.dialog.dayupper,JOUR {0}
+ui.dialog.daylower,Jour {0}
+ui.dialog.claimed,Réclamé
+ui.dialog.claim,RÉCLAMER
+ui.dialog.start,COMMENCER
+ui.dialog.today,aujourd'hui
+ui.dialog.rateus,ÉVALUE-NOUS!
+ui.dialog.likeourgame,Aimes-tu notre jeu ?
+ui.dialog.ratebutton,ÉVALUE !
+ui.dialog.liketoget.desc,{0} Aime pour {1}%tag_line%recevoir une récompense spéciale GRATUITES !
+ui.dialog.liketoget.button,AIMER
+ui.dialog.social.header,PIÈCES GRATUITES !
+ui.dialog.subscribe.button,S'ABONNER
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Politique de Confidentialité
+ui.subscription.terms,Сonditions d'Utilisation
+ui.dialog.restore,Restaurer achats
+ui.dialog.restore.info,Tes achats sont restaurés
+ui.dialog.restore.button,RESTAURER
+
+
+ui.prestige.resetprogress,Réinitialise la progression%tag_line%
+ui.prestige.earngems,pour remporter des perles
+ui.prestige.reset,RÉINITIALISE
+ui.prestige.progresspreseted,PROGRESSION RÉINITIALISÉE !
+ui.prestige.desc,Sacrifier tous les niveaux"," armes"," surclassements et pièces pour remporter des perles ?
+ui.skin.ninja,NINJA
+ui.skin.shark,SHARK
+ui.skin.catman,CATMAN
+ui.skin.gorsky,GORSKY
+ui.skin.jason,JASON
+ui.skin.50,50
+
+
+
+ui.skin.ability.coins,{0} or des pinatas pour tous les personnages
+ui.skin.ability.coinsobstacle,{0} d'or des obstacles pour tous les personnages
+ui.skin.ability.obstacledamage,{0} de dommages aux obstacles pour tous les personnages
+ui.skin.ability.crit,{0} de chance de coup critique pour tous les personnages
+ui.skin.ability.upgradeprice,{0} de coût de mise à niveau d'arme pour tous les personnages
+ui.skin.ability.doubleshot,Double coup tous les {0} coups pour tous les personnages
+ui.prestige.upgrade,Mettre à niveau
+ui.prestige.lock,Atteins le niveau {0}%tag_line%
+ui.prestige.lock2,pour débloquer la réinitialisation
+
+ui.settings.cloud_login,CONNECTE-TOI
+ui.settings.cloud_save_progress,pour sauvegarder ta progression
+ui.settings.cloud_loggedIn,CONNECTÉ
+ui.cloud_load.header,SYNCHRONISATION
+ui.cloud_load.desc,Meilleure option de sauvegarde sur le cloud trouvée!%tag_line%Charger la progression depuis le cloud?
+ui.cloud_save.header,AVERTISSEMENT
+ui.cloud_save.desc,Les données hébergées sur le cloud seront perdues.%tag_line%Sauvegarder la progression actuelle sur le cloud?
+
+ui.dialog.videocoins.header,RÉCUPÈRE DES PIÈCES !
+ui.dialog.videocoins.description,Regarde une vidéo et récupère des pièces
+
+ui.dialog.x2damage.header,DOUBLE TA VITESSE D'ATTAQUE !
+ui.dialog.x2damage.description,Regarde une vidéo et multiplie par 2 ta vitesse%tag_line%d'attaque pendant 1 minute !
+
+ui.dialog.videogems.header,OBTIENS DES GEMMES !
+ui.dialog.videogems.description,Regarde une vidéo et obtiens 5 gemmes
+
+ui.dialog.watchfordouble,Regarde une vidéo et obtiens 2X plus de pièces pendant 3 minutes !
+
+ui.dialog.you_won,TU AS GAGNÉ !
+
+ui.dialog.subscribe.desc,Suis-nous sur Instagram et obtiens des pièces GRATUITES
+
+yes,OUI
+no,NON

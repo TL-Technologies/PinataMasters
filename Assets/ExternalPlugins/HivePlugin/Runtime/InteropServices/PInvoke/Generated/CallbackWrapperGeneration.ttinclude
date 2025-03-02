@@ -1,0 +1,64 @@
+<#@ include file="ClassGenerationData.ttinclude" once="true"#><#+
+    void GenerateCallbackWrapper(ClassGenerationData data)
+    {
+        string paramTypes = data.GetGenericParamTypes();
+        string argumentsSignature = data.GetArgumentsSignature();
+        string argumentNames = data.GetArgumentNames();
+
+#>
+    public abstract class <#= data.CallbackWrapperTypeName #>Base : CallbackWrapper
+    {
+        protected abstract void OnInvoke(<#= argumentsSignature #>);
+
+
+        public <#= data.CallbackWrapperTypeName #>Base(CallbackWrapperOptions options) : base(options) { }
+
+
+        [AOT.MonoPInvokeCallback(typeof(Action<IntPtr, <#= paramTypes #>>))]
+        private static void Invoke(IntPtr ptr, <#= argumentsSignature #>)
+        {
+            var wrapper = FromIntPtr<<#= data.CallbackWrapperTypeName #>Base>(ptr);
+            wrapper?.OnInvoke(<#= argumentNames #>);
+        }
+
+
+        public <#= data.CallbackTypeName #> GetCallback()
+        {
+            return new <#= data.CallbackTypeName #>(ToIntPtr(), Invoke);
+        }
+
+
+        public static implicit operator <#= data.CallbackTypeName #>(<#= data.CallbackWrapperTypeName #>Base wrapper)
+        {
+            if (wrapper == null)
+            {
+                throw new ArgumentNullException(nameof(wrapper));
+            }
+
+            return wrapper.GetCallback();
+        }
+    }
+
+
+    public sealed class <#= data.CallbackWrapperTypeName #> : <#= data.CallbackWrapperTypeName #>Base
+    {
+        private readonly Action<<#= paramTypes #>> callback;
+
+
+        public <#= data.CallbackWrapperTypeName #>(
+            Action<<#= paramTypes #>> callback, 
+            CallbackWrapperOptions options = CallbackWrapperOptions.Default) : 
+            base(options)
+        {
+            this.callback = callback;
+        }
+
+
+        protected override void OnInvoke(<#= argumentsSignature #>)
+        {
+            callback?.Invoke(<#= argumentNames #>);
+        }
+    }
+<#+
+    }
+#>

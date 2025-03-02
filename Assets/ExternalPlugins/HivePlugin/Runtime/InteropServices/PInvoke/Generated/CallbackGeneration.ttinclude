@@ -1,0 +1,38 @@
+<#@ include file="ClassGenerationData.ttinclude" once="true"#><#+
+    void GenerateCallback(ClassGenerationData data)
+    {
+        string paramTypes = data.GetGenericParamTypes();
+
+#>
+    [StructLayout(LayoutKind.Sequential)]
+    public readonly struct <#= data.CallbackTypeName #>
+    {
+        private readonly IntPtr ptr;
+        private readonly Action<IntPtr, <#= paramTypes #>> callback;
+
+
+        internal <#= data.CallbackTypeName #>(IntPtr ptr, Action<IntPtr, <#= paramTypes #>> callback)
+        {
+            this.ptr = ptr;
+            this.callback = callback;
+        }
+
+
+        /// <summary>
+        /// <para>
+        /// Creates a native callback struct for a managed static method.
+        /// </para>
+        /// <para>
+        /// KEEP IN MIND that only static methods can be passed to argument <paramref name="staticMethod"/>!
+        /// </para>
+        /// </summary>
+        /// <param name="staticMethod">A delegate to a static method.</param>
+        /// <returns>A native callback struct for a managed static method.</returns>
+        public static <#= data.CallbackTypeName #> ForStaticMethod(Action<IntPtr, <#= paramTypes #>> staticMethod)
+        {
+            return new <#= data.CallbackTypeName #>(IntPtr.Zero, staticMethod);
+        }
+    }
+<#+
+    }
+#>

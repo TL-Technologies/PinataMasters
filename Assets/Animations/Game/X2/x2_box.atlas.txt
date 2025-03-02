@@ -1,0 +1,62 @@
+
+x2_box.png
+size: 893,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baloon_green
+  rotate: false
+  xy: 211, 2
+  size: 150, 228
+  orig: 150, 228
+  offset: 0, 0
+  index: -1
+baloon_pink
+  rotate: false
+  xy: 363, 2
+  size: 150, 228
+  orig: 150, 228
+  offset: 0, 0
+  index: -1
+baloon_yellow
+  rotate: false
+  xy: 515, 2
+  size: 150, 228
+  orig: 150, 228
+  offset: 0, 0
+  index: -1
+bant
+  rotate: false
+  xy: 667, 10
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+gift
+  rotate: true
+  xy: 2, 4
+  size: 226, 207
+  orig: 226, 207
+  offset: 0, 0
+  index: -1
+rope_back
+  rotate: false
+  xy: 844, 57
+  size: 23, 173
+  orig: 23, 173
+  offset: 0, 0
+  index: -1
+rope_front
+  rotate: false
+  xy: 869, 57
+  size: 22, 173
+  orig: 22, 173
+  offset: 0, 0
+  index: -1
+sticker
+  rotate: true
+  xy: 667, 85
+  size: 145, 172
+  orig: 145, 172
+  offset: 0, 0
+  index: -1

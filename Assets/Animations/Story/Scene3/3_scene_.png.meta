@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: d205844fd461c47b183e721054937f3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Shot1/shot1_trump_eye_close
+  - first:
+      213: 21300002
+    second: eye_new
+  - first:
+      213: 21300004
+    second: mouth
+  - first:
+      213: 21300006
+    second: shoot3_armrest_back_left
+  - first:
+      213: 21300008
+    second: shoot3_armrest_back_right
+  - first:
+      213: 21300010
+    second: shoot3_armrest_front_centre
+  - first:
+      213: 21300012
+    second: shoot3_armrest_front_left
+  - first:
+      213: 21300014
+    second: shoot3_armrest_front_right
+  - first:
+      213: 21300016
+    second: shoot3_chair_centre
+  - first:
+      213: 21300018
+    second: shoot3_chair_front_centre
+  - first:
+      213: 21300020
+    second: shoot3_chair_front_right
+  - first:
+      213: 21300022
+    second: shoot3_chair_right
+  - first:
+      213: 21300024
+    second: shoot3_chair_shadow_centre
+  - first:
+      213: 21300026
+    second: shoot3_chair_shadow_right
+  - first:
+      213: 21300028
+    second: shoot3_char_belt
+  - first:
+      213: 21300030
+    second: shoot3_char_body
+  - first:
+      213: 21300032
+    second: shoot3_char_cheeks
+  - first:
+      213: 21300034
+    second: shoot3_char_eye
+  - first:
+      213: 21300036
+    second: shoot3_char_eye2
+  - first:
+      213: 21300038
+    second: shoot3_char_face
+  - first:
+      213: 21300040
+    second: shoot3_char_hand1
+  - first:
+      213: 21300042
+    second: shoot3_char_hand2
+  - first:
+      213: 21300044
+    second: shoot3_char_head
+  - first:
+      213: 21300046
+    second: shoot3_char_headphone_back
+  - first:
+      213: 21300048
+    second: shoot3_char_headphone_front
+  - first:
+      213: 21300050
+    second: shoot3_char_mouth
+  - first:
+      213: 21300052
+    second: shoot3_char_mouth2
+  - first:
+      213: 21300054
+    second: shoot3_char_mouth_sideview
+  - first:
+      213: 21300056
+    second: shoot3_char_sideview
+  - first:
+      213: 21300058
+    second: shoot3_circle
+  - first:
+      213: 21300060
+    second: shoot3_eyebrow
+  - first:
+      213: 21300062
+    second: shotgun_base
+  - first:
+      213: 21300064
+    second: shotgun_handguard
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shot1/shot1_trump_eye_close
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1378
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962b83414c0824809bb02a48dc2be32d
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_new
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1594
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaeef8a4fe3e4ef6896bff42f950001
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1262
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9e49f09eb84bb7b48037607d6ff90
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_armrest_back_left
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1737
+        width: 315
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4619098df804048f5b842e526d8d10b6
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_armrest_back_right
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 553
+        width: 367
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cda6acb39624746a2ddd2f7c47fdbe
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_armrest_front_centre
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 855
+        width: 151
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c14c07a4496481490f3703ca0f740a
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_armrest_front_left
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1737
+        width: 315
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd67d59dddd59415da62cb3b95f11bcc
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_armrest_front_right
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 553
+        width: 315
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970744c0b01e040f291cd290deb6e6e9
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_centre
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 452
+        height: 1009
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1baecf2e0f54d2ea211e40747c5e76
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_front_centre
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1013
+        width: 452
+        height: 1009
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd650586b50584426a47feb0ef0f7147
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_front_right
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2
+        width: 395
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc122cdad3584bf4bd972b5b5a956e5
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_right
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1005
+        width: 395
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0369d81a2464f34bea95b7d7686869
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_shadow_centre
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 450
+        height: 851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e8ca848de0b4026a2fa225fce6cdbd
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_chair_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 855
+        width: 334
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a8e10b07fa4bce8005e42cc5865da
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_belt
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1153
+        width: 259
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4816ea2c7cd3d4e27a7168e9f7b2b9d2
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_body
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1701
+        width: 331
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49bc9f2e0b904627b1a42c8002687d4
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_cheeks
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 509
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c917f7d8e2e54153a213ab7a64106cb
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_eye
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1718
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740abf5587f8c4a15a663737f4569e75
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_eye2
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1329
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237ca053d6e0409e8d34911dcdf5757
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_face
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 841
+        width: 269
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220748af923764bc9a02c20579407e44
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_hand1
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1315
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b3002c3d2949c3942e266ba844d83
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_hand2
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1455
+        width: 78
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a71d609a4954e158e864155c7940a5
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_head
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 842
+        width: 394
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cc5025dcc34e21be2a5f6c056db03
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_headphone_back
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1550
+        width: 135
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012f7c4d7bb7420c9b75c25eed9575e
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_headphone_front
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1338
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8732a088100b04741834bccabbb48f73
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_mouth
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1594
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b667c86efa3bf445fa8ac71d1122f38d
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_mouth2
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1315
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b166662009944b08a482aecb7f87f1
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_mouth_sideview
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1672
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9752b35f2b60842609a45d6adbc05500
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_char_sideview
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2
+        width: 494
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b1a3ba5344f4a7a9f3262a6e5ab9f0
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_circle
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1329
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef110cfca1d49e2ad871497cea9845
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot3_eyebrow
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 509
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056817853a4864683849475b0d361b00
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun_base
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2
+        width: 231
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b6e30bbacd41c8a689a77083b52d3
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun_handguard
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1262
+        width: 164
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82733605b79147be8ba58d9f8577f93
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce7757c931f9b49cb854857f7f238269
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+{
+    "name": "Modules.Max",
+    "references": [
+        "GUID:54b94f12efb1a4307863ed0bb4b53b4e",
+        "GUID:6f5f722568ac84204832bac733c64bce",
+        "GUID:58d4668e32aa143a1b9905f94a515b0f",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:ff7faa2871224164c8612bf2cd4495c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

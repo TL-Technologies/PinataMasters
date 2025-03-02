@@ -1,0 +1,39 @@
+﻿<#@ template language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ include file="CallbackGeneration.ttinclude" #>
+<#@ include file="CallbackWrapperGeneration.ttinclude" #>
+using System;
+using System.Runtime.InteropServices;
+
+
+// AUTO-GENERATED FILE. DO NOT MODIFY.
+namespace Modules.Hive.InteropServices.PInvoke
+{
+<#
+    ClassGenerationData[] dataSet = 
+    {
+        new ClassGenerationData("Boolean", "bool"),
+        new ClassGenerationData("Int32", "int"),
+        new ClassGenerationData("String", "string"),
+    };
+
+    foreach (ClassGenerationData data in dataSet)
+    {
+#>
+    #region <#= data.CallbackTypeName #>
+
+<#
+        GenerateCallback(data);
+        GenerateEmptyLine(2);
+        GenerateCallbackWrapper(data);
+#>
+
+    #endregion
+
+
+<#
+    }
+#>
+}

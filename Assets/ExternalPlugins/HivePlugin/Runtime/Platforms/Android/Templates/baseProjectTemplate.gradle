@@ -1,0 +1,27 @@
+allprojects {
+    buildscript {
+        repositories {**ARTIFACTORYREPOSITORY**
+			google()
+			jcenter()
+            **HIVE_BUILDSCRIPT_REPOSITORIES**
+        }
+
+        dependencies {
+            **BUILD_SCRIPT_DEPS**
+        }
+    }
+
+    repositories {**ARTIFACTORYREPOSITORY**
+		google()
+		jcenter()
+		mavenCentral()
+        **HIVE_ALL_PROJECTS_REPOSITORIES**
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

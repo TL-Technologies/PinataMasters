@@ -1,0 +1,90 @@
+
+shark_body.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 178, 23
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 439, 79
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+fin
+  rotate: false
+  xy: 329, 69
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+gills
+  rotate: false
+  xy: 56, 12
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 384, 80
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 412, 80
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 23
+  size: 103, 174
+  orig: 103, 174
+  offset: 0, 0
+  index: -1
+jaw_bottom
+  rotate: false
+  xy: 439, 109
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+jaw_top
+  rotate: false
+  xy: 2, 7
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 329, 31
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+shoulder_l
+  rotate: true
+  xy: 329, 2
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+shoulder_r
+  rotate: true
+  xy: 378, 2
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1

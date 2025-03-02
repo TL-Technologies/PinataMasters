@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 877bd32cd20654210b13130707285173, type: 3}
+  m_Name: Purchases
+  m_EditorClassIdentifier: 
+  purchases:
+  - productName: 4
+    coins: 20000
+    freeCoins: 0
+  - productName: 5
+    coins: 47500
+    freeCoins: 2500
+  - productName: 6
+    coins: 112500
+    freeCoins: 12500
+  - productName: 7
+    coins: 297500
+    freeCoins: 52500
+  - productName: 8
+    coins: 595000
+    freeCoins: 105000
+  - productName: 9
+    coins: 960000
+    freeCoins: 240000
+  - productName: 10
+    coins: 1600000
+    freeCoins: 400000
+  - productName: 11
+    coins: 2250000
+    freeCoins: 750000
+  - productName: 12
+    coins: 3375000
+    freeCoins: 1125000
+  - productName: 13
+    coins: 4550000
+    freeCoins: 1950000
+  - productName: 14
+    coins: 7000000
+    freeCoins: 3000000
+  - productName: 15
+    coins: 18000000
+    freeCoins: 12000000
+  lateGamePurchases:
+  - productName: 12
+    coins: 0.75
+    freeCoins: 0.25
+  - productName: 13
+    coins: 1.02
+    freeCoins: 0.43
+  - productName: 14
+    coins: 1.56
+    freeCoins: 0.67
+  - productName: 15
+    coins: 4
+    freeCoins: 2.67

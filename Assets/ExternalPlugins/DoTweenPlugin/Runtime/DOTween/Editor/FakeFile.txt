@@ -1,0 +1,2 @@
+File for discarding annoying meta file in git, which was created by Unity for folder, that contains only files in gitignore.
+Also for preventing error, that is caused by internal method call without Directory.Exists check.

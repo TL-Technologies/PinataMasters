@@ -1,0 +1,97 @@
+
+jason_body.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 319, 159
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+coat
+  rotate: true
+  xy: 155, 89
+  size: 42, 106
+  orig: 42, 106
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 391, 189
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 313, 97
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+eye_back
+  rotate: false
+  xy: 319, 131
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 487, 148
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+eye_front
+  rotate: false
+  xy: 361, 137
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: true
+  xy: 391, 157
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 155, 133
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 439, 157
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1
+jason_unicorn
+  rotate: false
+  xy: 2, 106
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: true
+  xy: 263, 101
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1

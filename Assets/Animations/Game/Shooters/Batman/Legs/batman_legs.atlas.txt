@@ -1,0 +1,20 @@
+
+batman_legs.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shin
+  rotate: true
+  xy: 47, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 2, 2
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1

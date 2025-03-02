@@ -1,0 +1,116 @@
+ui.dialog.you_earned,DU HAST VERDIENT!
+ui.dialog.collect_double,KASSIERE DOPPELT
+ui.dialog.collect,KASSIEREN
+ui.dialog.power,KRAFT
+ui.dialog.ammo,MUNITION
+ui.dialog.tap_to_start,ZUM STARTEN ANTIPPEN
+ui.dialog.offline_reward,+{0}% OFFLINE-BELOHNUNG
+ui.dialog.speed,+{0}% TEMPO
+ui.dialog.bonus_coins,+{0}% BONUS-MÜNZEN
+ui.dialog.unlock,FREISCHALTEN
+ui.dialog.choose,WÄHLEN
+ui.settings.terms_and_privacy,TEILNAHMEBEDINGUNGEN UND DATENSCHUTZ
+ui.settings.soundon,TON AN
+ui.settings.vibrationon,VIBRATION AN
+ui.settings.soundoff,TON AUS
+ui.settings.vibrationoff,VIBRATION AUS
+ui.settings.musicon,MUSIK AN
+ui.settings.musicoff,MUSIK AUS
+ui.settings.header,EINSTELLUNGEN
+ui.removeads,GESAMTE WERBUNG entfernen
+ui.dialog.doublecoins,Kassiere doppelte Münzen
+ui.dialog.doubleincome,Doppelte Belohnung
+ui.popup.auto.renewable.subscription.start,KOSTENLOSEN TEST STARTEN
+ui.popup.auto.renewable.subscription.button.description,3 Tage kostenlos"," danach {0} pro Woche
+ui.popup.auto.renewable.subscription.week,{0}    WOCHE
+ui.popup.auto.renewable.subscription.month,{0}    MONAT
+ui.dailygift.header,TÄGLICHES GESCHENK
+ui.offlineearnings.header,OFFLINE-VERDIENST ERHALTEN!
+ui.dialog.noads.oops,HOPPLA!
+ui.dialog.noads.adsproblem,KEINE WERBUNG
+ui.dialog.nointernet,KEIN INTERNET
+ui.dialog.language,Deutsch
+ui.dialog.doubleloot,Münzschatz verdoppeln!
+localnotification.dailygift,Ein tägliches Geschenk wartet auf euch! Einfach nehmen!
+localnotification.offlinereward,Maximale Anzahl an Münzen fürs Offline-sein jetzt verfügbar!
+ui.dialog.somethingwrong,DA IST ETWAS SCHIEF GELAUFEN
+ui.dialog.ok,OK
+ui.dialog.needcoins,BRAUCHST DU MÜNZEN?
+ui.dialog.bestvalue,BESTER WERT
+ui.dialog.mostpopular,AM BELIEBTESTEN
+ui.dialog.free,+{0} kostenlos
+ui.dialog.buy,KAUFEN
+ui.dialog.get,BEKOMMEN
+ui.dialog.dayupper,TAG {0}
+ui.dialog.daylower,TAG {0}
+ui.dialog.claimed,Angefordert
+ui.dialog.claim,ANFORDERN
+ui.dialog.start,STARTEN
+ui.dialog.today,heute
+ui.dialog.rateus,BEWERTE UNS!
+ui.dialog.likeourgame,Magst Du unser Spiel?
+ui.dialog.ratebutton,Bewerten
+ui.dialog.liketoget.desc,{0} MÖGEN drücken {1}%tag_line%um eine kostenlose"," besondere Belohnung zu erhalten!
+ui.dialog.liketoget.button,MÖGEN
+ui.dialog.social.header,KOSTENLOSE MÜNZEN?
+ui.dialog.subscribe.button,Abonnieren
+
+ui.subscription.info.smart,These purchases are auto-renewable subscription. Payment will be charged to your {0} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your {0} account settings after purchase. Any unused portion of a free trial period"," if offered"," will be forfeited when the user purchases a subscription to that publication"," where applicable. {1} and {2}.
+
+ui.subscription.info.foolish,Weekly Diamond Membership automatically renews for {0} per week after the 3-day free trial. Payment will be charged to your {1} account at the confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period""," and identify the cost of the renewal. You can manage and turn off auto-renewal of the subscription by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication"," where applicable. By signing up for a free trial"," you can agree to Playgendary’s {2} and {3}.
+
+ui.subscription.policy,Datenschutzrichtlinie
+ui.subscription.terms,Nutzungsbedingungen
+ui.dialog.restore,Einkauf ist wieder hergestellt
+ui.dialog.restore.info,Einkauf ist wieder hergestellt
+ui.dialog.restore.button,WIEDERHERSTELLEN
+
+
+ui.prestige.resetprogress,Fortschritt zurücksetzen%tag_line%
+ui.prestige.earngems,um Edelsteine zu verdienen
+ui.prestige.reset,ZURÜCKSETZEN
+ui.prestige.progresspreseted,FORTSCHRITT ZURÜCKSETZEN!
+ui.prestige.desc,Alle Stufen"," Waffen"," Aufstiege und Münzen opfern"," um Edelsteine zu verdienen?
+ui.skin.ninja,NINJA
+ui.skin.shark,HAI
+ui.skin.catman,KATZENMANN
+ui.skin.gorsky,GORSKY
+ui.skin.jason,JASON
+ui.skin.50,50
+
+
+ui.skin.ability.coins,{0} Gold aus Pinatas für alle Charaktere
+ui.skin.ability.coinsobstacle,{0} Gold aus Hindernissen für alle Charaktere
+ui.skin.ability.obstacledamage,{0} Schaden an Hindernissen für alle Charaktere
+ui.skin.ability.crit,{0} kritische Trefferchance für alle Charaktere
+ui.skin.ability.upgradeprice,{0} Waffen-Upgrade-Kosten für alle Charaktere
+ui.skin.ability.doubleshot,Doppelter Schuss alle {0} Schüsse für alle Charaktere
+ui.prestige.upgrade,Upgraden
+ui.prestige.lock,Erreiche Stufe {0}%tag_line%
+ui.prestige.lock2,um Zurücksetzen aufzuheben
+
+ui.settings.cloud_login,ANMELDEN
+ui.settings.cloud_save_progress,um Fortschritt zu speichern
+ui.settings.cloud_loggedIn,ANGEMELDET
+ui.cloud_load.header,SYNCHRONISATION
+ui.cloud_load.desc,Beste Cloud-Speicheroption gefunden!%tag_line%Fortschritt von der Cloud laden?
+ui.cloud_save.header,WARNUNG
+ui.cloud_save.desc,Cloud-Daten werden verloren.%tag_line%Aktuellen Fortschritt in der Cloud speichern?
+
+ui.dialog.videocoins.header,HOL DIR MÜNZEN!
+ui.dialog.videocoins.description,Sieh dir ein Video an und erhalte Münzen!
+
+ui.dialog.x2damage.header,VERDOPPLE DEINE ANGRIFFSGESCHWINDIGKEIT!
+ui.dialog.x2damage.description,Sieh dir ein Video an und erhalte 1 Minute%tag_line%lang doppelte Angriffsgeschwindigkeit!
+
+ui.dialog.videogems.header,HOL DIR JUWELEN!
+ui.dialog.videogems.description,Sieh dir ein Video an und erhalte 5 Juwelen!
+
+ui.dialog.watchfordouble,Sieh dir ein Video an und erhalte%tag_line%3 Minuten lang Münzen x2!
+
+ui.dialog.you_won,DU HAST GEWONNEN!
+
+ui.dialog.subscribe.desc,Folge uns auf Instagram und erhalte KOSTENLOSE Münzen
+
+yes,JA
+no,NEIN

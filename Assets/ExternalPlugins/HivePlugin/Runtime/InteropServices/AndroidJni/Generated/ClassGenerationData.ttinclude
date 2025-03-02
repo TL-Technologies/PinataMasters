@@ -1,0 +1,49 @@
+<#@ import namespace="System.Text" #><#+ 
+    public class ClassGenerationData
+    {
+        public string TypeSuffix { get; }
+        public string[] ParamsTypeName { get; }
+        public string CallbackWrapperBaseTypeName { get { return TypeSuffix + "CallbackWrapperBase"; } }
+        public string CallbackWrapperTypeName { get { return TypeSuffix + "CallbackWrapper"; } }
+
+        public ClassGenerationData(string typeSuffix, params string[] paramsTypeName)
+        {
+            TypeSuffix = typeSuffix;
+            ParamsTypeName = paramsTypeName;
+        }
+
+        public string GetGenericParamTypes() 
+        { 
+            return string.Join(", ", ParamsTypeName);
+        }
+
+        public string GetArgumentsSignature() 
+        { 
+            StringBuilder rs = new StringBuilder();
+            for (int i = 0; i < ParamsTypeName.Length; i++)
+                rs.AppendFormat("{0} arg{1}, ", ParamsTypeName[i], i + 1);
+
+            if (rs.Length > 0)
+                rs.Length = rs.Length - 2;
+
+            return rs.ToString();
+        }
+
+        public string GetArgumentNames() 
+        { 
+            StringBuilder rs = new StringBuilder();
+            for (int i = 0; i < ParamsTypeName.Length; i++)
+                rs.AppendFormat("arg{0}, ", i + 1);
+
+            if (rs.Length > 0)
+                rs.Length = rs.Length - 2;
+
+            return rs.ToString();
+        }
+
+        public string GetDefaultJavaInterfaceName()
+        {
+            return string.Format("org.hive.foundation.callbacks.Unity{0}Callback", TypeSuffix);
+        }
+    }
+#>

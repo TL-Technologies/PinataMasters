@@ -1,0 +1,21 @@
+{
+  "name": "com.playgendary.modules.appsflyer",
+  "version": "1.6.1",
+  "displayName": "AppsFlyer",
+  "description": "AppsFlyer module",
+  "unity": "2018.3",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.playgendary.modules.general": "3.0.20",
+    "com.playgendary.modules.http": "1.1.4",
+    "com.playgendary.modules.hive": "1.7.3"
+  },
+  "hideInEditor": false,
+  "internal": {
+    "ios": "6.4.0",
+    "android": "6.4.0"
+  }
+}

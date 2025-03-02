@@ -1,0 +1,38 @@
+{
+    "name": "Pinatamasters",
+    "references": [
+        "Modules.Advertising",
+        "Modules.Analytics",
+        "Modules.AppsFlyer",
+        "Modules.ExternalDependencyManager",
+        "Modules.DOTween",
+        "Modules.General",
+        "Modules.General.Obsolete",
+        "Modules.Haptic",
+        "Modules.InAppPurchase",
+        "Modules.Legacy",
+        "Modules.Max",
+        "Modules.Notification",
+        "Modules.Notification.Obsolete",
+        "Modules.PromoFetch",
+        "Modules.Spine",
+        "Modules.Utilities",
+        "Unity.TextMeshPro",
+        "UnityEngine.Purchasing.Security",
+        "UnityEngine.Purchasing.SecurityStub",
+        "Modules.Hive"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

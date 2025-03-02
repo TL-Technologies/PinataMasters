@@ -1,0 +1,97 @@
+
+bird_leg+box.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow_left
+  rotate: false
+  xy: 429, 34
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+bow_left_white
+  rotate: false
+  xy: 223, 10
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+bow_right
+  rotate: false
+  xy: 329, 30
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+bow_right_white
+  rotate: false
+  xy: 890, 154
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 223, 105
+  size: 199, 143
+  orig: 199, 143
+  offset: 0, 0
+  index: -1
+box_cap
+  rotate: false
+  xy: 2, 19
+  size: 216, 64
+  orig: 216, 64
+  offset: 0, 0
+  index: -1
+box_white
+  rotate: false
+  xy: 2, 85
+  size: 219, 163
+  orig: 219, 163
+  offset: 0, 0
+  index: -1
+cap_shadow
+  rotate: false
+  xy: 632, 142
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+cap_white
+  rotate: false
+  xy: 424, 164
+  size: 236, 84
+  orig: 236, 84
+  offset: 0, 0
+  index: -1
+paw
+  rotate: false
+  xy: 515, 39
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 424, 109
+  size: 53, 206
+  orig: 53, 206
+  offset: 0, 0
+  index: -1
+ribbon_shadow
+  rotate: false
+  xy: 2, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ribbon_white
+  rotate: true
+  xy: 662, 175
+  size: 73, 226
+  orig: 73, 226
+  offset: 0, 0
+  index: -1

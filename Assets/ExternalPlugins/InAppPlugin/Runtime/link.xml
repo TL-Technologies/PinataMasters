@@ -1,0 +1,12 @@
+<linker>
+    <assembly fullname="UnityEngine.Purchasing.Apple" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.AppleCore" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.AppleMacos" preserve="all"/>
+    <assembly fullname="Purchasing.Common" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.Security" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.SecurityCore" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.Stores" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.WinRT" preserve="all"/>
+    <assembly fullname="UnityEngine.Purchasing.WinRTCore" preserve="all"/>
+</linker>

@@ -1,0 +1,17 @@
+{
+    "name": "Modules.AppsFlyer",
+    "references": [
+        "GUID:783f1805b62c34b1fae3f9b6945741d0",
+        "GUID:58d4668e32aa143a1b9905f94a515b0f",
+        "GUID:ff7faa2871224164c8612bf2cd4495c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

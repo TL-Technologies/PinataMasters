@@ -1,0 +1,69 @@
+
+cosmonaut_body.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 190, 188
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eyerbrow
+  rotate: true
+  xy: 190, 148
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: false
+  xy: 158, 129
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 158, 176
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 158, 176
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 110
+  size: 154, 144
+  orig: 154, 144
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 158, 224
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 94, 4
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1

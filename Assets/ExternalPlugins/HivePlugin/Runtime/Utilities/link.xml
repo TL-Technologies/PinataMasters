@@ -1,0 +1,6 @@
+<linker>
+  <!--Preserving for the possible bug during localization https://issuetracker.unity3d.com/issues/ios-argumentoutofrangeexception-is-thrown-when-using-the-net-methods-for-formatting-dates-and-attempting-to-format-dates-->
+  <assembly fullname="mscorlib">
+    <namespace fullname="System.Globalization" preserve="all"/>
+  </assembly>
+</linker>

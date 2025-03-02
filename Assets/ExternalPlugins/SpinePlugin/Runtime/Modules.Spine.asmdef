@@ -1,0 +1,15 @@
+{
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "name": "Modules.Spine",
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "optionalUnityReferences": [],
+    "references": [
+        "Modules.General",
+        "Modules.Legacy"
+    ],
+    "precompiledReferences": []
+}

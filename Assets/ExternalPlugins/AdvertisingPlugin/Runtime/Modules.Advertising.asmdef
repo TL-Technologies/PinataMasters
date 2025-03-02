@@ -1,0 +1,17 @@
+{
+    "name": "Modules.Advertising",
+    "references": [
+        "Modules.General",
+        "Modules.Analytics",
+        "Modules.Hive"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
