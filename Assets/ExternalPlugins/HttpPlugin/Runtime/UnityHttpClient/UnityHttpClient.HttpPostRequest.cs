@@ -27,7 +27,7 @@ namespace Http
             public async Task<IHttpPostResponse> SendAsync(CancellationToken cancellationToken)
             {
                 string url = BuildUrl();
-                using (UnityWebRequest request = UnityWebRequest.Post(url, PostData))
+                using (UnityWebRequest request = UnityWebRequest.PostWwwForm(url, PostData))
                 {
                     var data = Encoding.UTF8.GetBytes(PostData);
                     request.uploadHandler = new UploadHandlerRaw(data);

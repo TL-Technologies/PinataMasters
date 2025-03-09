@@ -1,6 +1,7 @@
 using Modules.General.Abstraction.GooglePlayGameServices;
 using System;
 using UnityEngine.SocialPlatforms;
+using Range = UnityEngine.SocialPlatforms.Range;
 
 
 namespace Modules.General.GooglePlayGameServices

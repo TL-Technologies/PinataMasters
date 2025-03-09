@@ -97,8 +97,7 @@ namespace PinataMasters
         private IEnumerator HideScreen()
         {
             yield return new WaitForSeconds(0.7f);
-
-            Notification.QueryNotification();
+            
             Hide();
         }
 

@@ -4,7 +4,6 @@ using Modules.General.HelperClasses;
 using Modules.Hive.Ioc;
 using Modules.InAppPurchase;
 using Modules.Max;
-using Modules.Notification;
 using System;
 using System.Collections;
 using UnityEngine;
@@ -129,8 +128,7 @@ namespace PinataMasters
 
                 NotificationManager.Instance.Initialize();
             #endif
-
-            Notification.Init();
+            
 
             CustomAdvertisingManager.OnFullScreenAdStarted += CustomAdvertisingManagerOnFullScreenAdStarted;
             CustomAdvertisingManager.OnFullScreenAdFinished += CustomAdvertisingManagerOnFullScreenAdFinished;

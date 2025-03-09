@@ -28,7 +28,7 @@ namespace UnityEngine.Purchasing
 
         public void Post(string url, string body, Action<string> responseHandler, Action<string> errorHandler, int maxTimeoutInSeconds = 5)
         {
-            var request = UnityWebRequest.Post(url, body);
+            var request = UnityWebRequest.PostWwwForm(url, body);
             request.timeout = maxTimeoutInSeconds;
 
             Action<AsyncOperation> onPost = CreateGenericWebOperation(request, responseHandler, errorHandler);
